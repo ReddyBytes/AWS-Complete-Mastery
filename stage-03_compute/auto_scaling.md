@@ -517,6 +517,10 @@ Target tracking: you set a target value for a metric (e.g., CPU = 70%) and AWS a
    • Delete Launch Template
 ```
 
-**Next:** [Stage 03c → Elastic Beanstalk](./elastic_beanstalk.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← EC2](../stage-03_compute/ec2.md) &nbsp;|&nbsp; **Next:** [Elastic Beanstalk →](../stage-03_compute/elastic_beanstalk.md)
+
+**Related Topics:** [EC2](../stage-03_compute/ec2.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md) · [ECS](../stage-10_containers/ecs.md) · [High Availability](../stage-14_architecture/high_availability.md)

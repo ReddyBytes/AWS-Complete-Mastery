@@ -577,6 +577,10 @@ Lambda polls SQS using an Event Source Mapping. It retrieves batches of messages
    See every invocation, error, duration, memory used
 ```
 
-**Next:** [Stage 11b → API Gateway](./api_gateway.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← EKS](../stage-10_containers/eks.md) &nbsp;|&nbsp; **Next:** [API Gateway →](../stage-11_serverless/api_gateway.md)
+
+**Related Topics:** [API Gateway](../stage-11_serverless/api_gateway.md) · [SQS, SNS & EventBridge](../stage-11_serverless/sqs_sns_eventbridge.md) · [Step Functions](../stage-11_serverless/step_functions.md) · [DynamoDB](../stage-07_databases/dynamodb.md)

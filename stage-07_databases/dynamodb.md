@@ -426,4 +426,10 @@ DynamoDB automatically partitions data based on a hash of the partition key, dis
 **Q: When would you use DynamoDB over RDS?**
 DynamoDB: when you need massive scale (millions of operations/second), serverless capacity, global replication (Global Tables), single-digit millisecond latency, and simple access patterns (key-based lookups). RDS: when you need complex SQL joins, ad-hoc queries, strong ACID transactions across tables, or complex reporting.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← RDS & Aurora](../stage-07_databases/rds_aurora.md) &nbsp;|&nbsp; **Next:** [ElastiCache Redis →](../stage-07_databases/elasticache.md)
+
+**Related Topics:** [RDS & Aurora](../stage-07_databases/rds_aurora.md) · [ElastiCache Redis](../stage-07_databases/elasticache.md) · [Lambda](../stage-11_serverless/lambda.md) · [Kinesis Streaming](../stage-12_data_analytics/kinesis.md)

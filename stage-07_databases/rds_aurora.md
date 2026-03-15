@@ -384,6 +384,10 @@ When you have many short-lived connections to the database, such as Lambda funct
 Clean up: Delete replica, delete DB, delete snapshot (to avoid charges)
 ```
 
-**Next:** [Stage 07b → DynamoDB](./dynamodb.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← WAF, Shield & GuardDuty](../stage-06_security/waf_shield_guardduty.md) &nbsp;|&nbsp; **Next:** [DynamoDB →](../stage-07_databases/dynamodb.md)
+
+**Related Topics:** [DynamoDB](../stage-07_databases/dynamodb.md) · [ElastiCache Redis](../stage-07_databases/elasticache.md) · [VPC Networking](../stage-05_networking/vpc.md) · [Disaster Recovery](../stage-14_architecture/disaster_recovery.md)

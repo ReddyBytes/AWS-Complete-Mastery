@@ -323,4 +323,10 @@ Latency routing routes users to the AWS region that gives the lowest latency —
 **Q: What is an Alias record and why use it instead of CNAME?**
 An Alias record is AWS-specific and can be used at the zone apex (root domain like example.com) while CNAME cannot. Alias records resolve within Route 53 without an extra DNS lookup, are free to query, and work with AWS resources (ALB, CloudFront, S3). Always use Alias when pointing to AWS resources.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← VPC Networking](../stage-05_networking/vpc.md) &nbsp;|&nbsp; **Next:** [IAM →](../stage-06_security/iam.md)
+
+**Related Topics:** [VPC Networking](../stage-05_networking/vpc.md) · [S3 Object Storage](../stage-04_storage/s3.md) · [WAF, Shield & GuardDuty](../stage-06_security/waf_shield_guardduty.md) · [High Availability](../stage-14_architecture/high_availability.md)

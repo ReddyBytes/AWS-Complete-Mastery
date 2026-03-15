@@ -216,4 +216,10 @@ SSE-S3: AWS manages keys automatically (AES-256). Free, no audit trail, no IAM p
 **Q: What is AWS Secrets Manager and when would you use it vs environment variables?**
 Secrets Manager stores secrets encrypted with KMS, provides automatic rotation, CloudTrail audit, and versioning. Environment variables in Lambda/ECS are less secure (visible in console, logged in CloudTrail config changes), not encrypted at field level, and don't support rotation. Use Secrets Manager for: database passwords, API keys, OAuth tokens. Use environment variables for: non-sensitive configuration (feature flags, API URLs).
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← IAM](../stage-06_security/iam.md) &nbsp;|&nbsp; **Next:** [Cognito →](../stage-06_security/cognito.md)
+
+**Related Topics:** [IAM](../stage-06_security/iam.md) · [S3 Object Storage](../stage-04_storage/s3.md) · [RDS & Aurora](../stage-07_databases/rds_aurora.md) · [Cognito](../stage-06_security/cognito.md)

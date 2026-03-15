@@ -338,4 +338,10 @@ Even well-instructed models can be manipulated via prompt injection attacks ("ig
 **Q: What is the difference between Bedrock Agents and Amazon Q Business?**
 Both are AI assistants but for different audiences. Bedrock Agents are for developers building custom AI workflows — you define the tools, schemas, and integration logic. Full programmatic control. Amazon Q Business is a no-code/low-code enterprise AI assistant — connect your data sources (Confluence, SharePoint, S3), and employees immediately get an AI that answers questions from your company knowledge. Q Business handles all the plumbing; Bedrock Agents require engineering effort but offer unlimited customization.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Knowledge Bases (RAG)](../stage-16_ai_ml/bedrock_knowledge_bases.md) &nbsp;|&nbsp; **Next:** [SageMaker →](../stage-16_ai_ml/sagemaker.md)
+
+**Related Topics:** [Amazon Bedrock](../stage-16_ai_ml/bedrock.md) · [Knowledge Bases (RAG)](../stage-16_ai_ml/bedrock_knowledge_bases.md) · [IAM](../stage-06_security/iam.md) · [Bedrock Agents](../stage-16_ai_ml/bedrock_agents.md)

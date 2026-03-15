@@ -445,4 +445,10 @@ Operational Excellence — use CI/CD pipelines with CodePipeline so there are no
 **Q: How would you use the AWS Well-Architected Tool in a real project?**
 After deploying an MVP, run a WAF Tool review against the workload. Answer ~60 questions across all 6 pillars — the tool flags high and medium risks. For a typical startup MVP, common findings: no Multi-AZ (reliability risk), CloudTrail not enabled (security risk), no S3 lifecycle policies (cost risk). Create improvement milestones: address all HIGH risks in Sprint 1, MEDIUM risks in Sprint 2. Re-run the review quarterly. This gives an auditable trail of architectural improvements — critical for enterprise sales and SOC 2 compliance.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← High Availability](../stage-14_architecture/high_availability.md) &nbsp;|&nbsp; **Next:** [Disaster Recovery →](../stage-14_architecture/disaster_recovery.md)
+
+**Related Topics:** [High Availability](../stage-14_architecture/high_availability.md) · [Disaster Recovery](../stage-14_architecture/disaster_recovery.md) · [Cost Optimization](../stage-15_cost_optimization/theory.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md)

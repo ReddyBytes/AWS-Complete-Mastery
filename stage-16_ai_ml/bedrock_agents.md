@@ -423,4 +423,10 @@ The agent uses a ReAct (Reason + Act) loop. The foundation model receives the us
 **Q: What is the difference between a Bedrock Agent and just calling a Lambda from a Lambda?**
 With a hardcoded Lambda → Lambda flow, you code every decision branch explicitly: if user asks X, call Y, then Z. Bedrock Agents let the LLM make these decisions dynamically based on the user's intent. The agent can handle novel requests you didn't explicitly program — it figures out the right sequence of tool calls from your tool descriptions. This enables much more flexible, natural-language-driven workflows vs rigid hardcoded logic.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Amazon Bedrock](../stage-16_ai_ml/bedrock.md) &nbsp;|&nbsp; **Next:** [Knowledge Bases (RAG) →](../stage-16_ai_ml/bedrock_knowledge_bases.md)
+
+**Related Topics:** [Amazon Bedrock](../stage-16_ai_ml/bedrock.md) · [Knowledge Bases (RAG)](../stage-16_ai_ml/bedrock_knowledge_bases.md) · [Lambda](../stage-11_serverless/lambda.md) · [Step Functions](../stage-11_serverless/step_functions.md)

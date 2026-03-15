@@ -237,4 +237,10 @@ Elastic Beanstalk is AWS's PaaS offering. You upload application code and it aut
 **Q: What is the difference between Blue/Green and Immutable deployments in Beanstalk?**
 Immutable creates a new set of instances within the same environment, runs health checks, then swaps traffic. Rollback means deleting the new instances. Blue/Green creates a completely separate Beanstalk environment with the new version, tests it independently, then swaps the environment URLs. Blue/Green provides complete isolation and easier rollback (just swap URLs back).
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Auto Scaling & Load Balancing](../stage-03_compute/auto_scaling.md) &nbsp;|&nbsp; **Next:** [S3 Object Storage →](../stage-04_storage/s3.md)
+
+**Related Topics:** [EC2](../stage-03_compute/ec2.md) · [ECS](../stage-10_containers/ecs.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md) · [CloudFormation](../stage-09_iac/cloudformation.md)

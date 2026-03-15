@@ -184,4 +184,10 @@ Application checks cache first. If cache hit, return data. If cache miss, query 
 **Q: Why would you use Redis instead of just increasing your database size?**
 Redis serves data in < 1ms (from memory). Databases serve queries in 5-50ms (from disk, with network). For high-traffic hot data, caching reduces database load by orders of magnitude, enables horizontal scale without expensive database scaling, and provides data structures (leaderboards, counters) that databases handle inefficiently.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← DynamoDB](../stage-07_databases/dynamodb.md) &nbsp;|&nbsp; **Next:** [CloudWatch & Observability →](../stage-08_monitoring/cloudwatch.md)
+
+**Related Topics:** [RDS & Aurora](../stage-07_databases/rds_aurora.md) · [DynamoDB](../stage-07_databases/dynamodb.md) · [Lambda](../stage-11_serverless/lambda.md)

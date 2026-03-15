@@ -467,6 +467,10 @@ Edge locations are part of CloudFront's CDN network (~400 locations globally). T
    e) The RDS database engine has a security CVE
 ```
 
-**Next:** [Stage 03 → Core AWS Compute (EC2)](../stage-03_compute/ec2.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Cloud Foundations](../stage-01_cloud_foundations/theory.md) &nbsp;|&nbsp; **Next:** [EC2 →](../stage-03_compute/ec2.md)
+
+**Related Topics:** [Cloud Foundations](../stage-01_cloud_foundations/theory.md) · [VPC Networking](../stage-05_networking/vpc.md) · [Route 53 & CloudFront](../stage-05_networking/route53_cloudfront.md) · [IAM](../stage-06_security/iam.md)

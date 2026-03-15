@@ -346,4 +346,10 @@ Use Bedrock for general-purpose LLM tasks (text generation, summarization, chat)
 **Q: What is the difference between a SageMaker training job and a SageMaker endpoint?**
 A training job is ephemeral — it spins up compute, runs your training script, saves the model to S3, and shuts down (you pay only for training time). An endpoint is persistent — it keeps compute running to serve real-time predictions via HTTP (you pay per hour). For offline bulk predictions, use Batch Transform instead of an endpoint (process all records, no persistent server).
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Guardrails & Amazon Q](../stage-16_ai_ml/guardrails_amazon_q.md) &nbsp;|&nbsp; **Next:** [Pre-Built AI Services →](../stage-16_ai_ml/ai_services.md)
+
+**Related Topics:** [Amazon Bedrock](../stage-16_ai_ml/bedrock.md) · [Pre-Built AI Services](../stage-16_ai_ml/ai_services.md) · [S3 Object Storage](../stage-04_storage/s3.md) · [ECS](../stage-10_containers/ecs.md)

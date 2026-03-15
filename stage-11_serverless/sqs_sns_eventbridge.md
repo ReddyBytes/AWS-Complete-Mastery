@@ -394,4 +394,10 @@ When a consumer reads a message, SQS makes it invisible to other consumers for t
 **Q: What is the difference between SNS and EventBridge?**
 SNS is a simple pub/sub service — publish a message, all subscribers get it. EventBridge is a more powerful event bus — it can receive events from 100+ AWS services, SaaS applications, and your own apps. EventBridge has pattern matching (route only events that match specific criteria), schema registry, archive/replay, and cross-account event routing. Use SNS for simple fan-out; use EventBridge for complex event routing and AWS service integration.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← AppSync (GraphQL)](../stage-11_serverless/appsync.md) &nbsp;|&nbsp; **Next:** [Step Functions →](../stage-11_serverless/step_functions.md)
+
+**Related Topics:** [Lambda](../stage-11_serverless/lambda.md) · [Step Functions](../stage-11_serverless/step_functions.md) · [Kinesis Streaming](../stage-12_data_analytics/kinesis.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md)

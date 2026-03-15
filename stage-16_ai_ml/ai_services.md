@@ -428,4 +428,10 @@ Rekognition analyzes the visual content of images and videos — it detects obje
 **Q: When would you use Amazon Comprehend vs a Bedrock model for NLP tasks?**
 Comprehend is a specialized service for specific NLP tasks: sentiment analysis, entity recognition, key phrase extraction, language detection, and topic modeling. It's fast, cheap, predictable, and requires no prompt engineering. Use Comprehend when you have a well-defined NLP task at scale (analyze 100,000 customer reviews for sentiment). Use Bedrock when you need flexible reasoning — nuanced analysis, custom instructions, multi-step thinking, or tasks Comprehend doesn't support (e.g., "explain why the customer is unhappy and suggest a resolution").
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← SageMaker](../stage-16_ai_ml/sagemaker.md) &nbsp;|&nbsp; **Next:** [Interview Master →](../stage-99_interview_master/README.md)
+
+**Related Topics:** [Amazon Bedrock](../stage-16_ai_ml/bedrock.md) · [SageMaker](../stage-16_ai_ml/sagemaker.md) · [Lambda](../stage-11_serverless/lambda.md) · [S3 Object Storage](../stage-04_storage/s3.md)

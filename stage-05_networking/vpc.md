@@ -589,6 +589,10 @@ VPC peering creates a direct private connection between two VPCs. Limitations: (
 Cost note: NAT Gateway charges ~$0.045/hr. Delete after practice.
 ```
 
-**Next:** [Stage 06 → IAM & Security](../stage-06_security/iam.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← EBS & EFS](../stage-04_storage/ebs_efs.md) &nbsp;|&nbsp; **Next:** [Route 53 & CloudFront →](../stage-05_networking/route53_cloudfront.md)
+
+**Related Topics:** [Route 53 & CloudFront](../stage-05_networking/route53_cloudfront.md) · [IAM](../stage-06_security/iam.md) · [EC2](../stage-03_compute/ec2.md) · [CloudFormation](../stage-09_iac/cloudformation.md)

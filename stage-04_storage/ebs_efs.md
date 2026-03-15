@@ -222,4 +222,10 @@ gp3 is the latest generation general-purpose SSD. Unlike gp2 (where IOPS = 3 × 
 **Q: Can you attach an EBS volume to multiple EC2 instances?**
 Standard EBS (gp3, gp2, st1, sc1) can only attach to one instance at a time. The exception is io2 Block Express volumes with the "Multi-Attach" feature, which can attach to up to 16 instances in the same AZ simultaneously. This requires a cluster-aware file system (not standard ext4/XFS).
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← S3 Object Storage](../stage-04_storage/s3.md) &nbsp;|&nbsp; **Next:** [VPC Networking →](../stage-05_networking/vpc.md)
+
+**Related Topics:** [EC2](../stage-03_compute/ec2.md) · [S3 Object Storage](../stage-04_storage/s3.md) · [CloudFormation](../stage-09_iac/cloudformation.md)

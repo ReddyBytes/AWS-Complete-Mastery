@@ -426,4 +426,10 @@ CloudWatch monitors the health and performance of applications and infrastructur
 **Q: How would you investigate why your Lambda function's error rate spiked?**
 (1) CloudWatch → Lambda metrics → Errors graph — see when errors started. (2) CloudWatch Logs Insights — query `/aws/lambda/my-function` for ERROR messages in that time window. (3) X-Ray traces — find failing traces to see exactly which service or code path is failing. (4) Check CloudTrail — was there a configuration change (env var, code deploy) before errors started?
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← ElastiCache Redis](../stage-07_databases/elasticache.md) &nbsp;|&nbsp; **Next:** [CloudFormation →](../stage-09_iac/cloudformation.md)
+
+**Related Topics:** [CloudFormation](../stage-09_iac/cloudformation.md) · [Lambda](../stage-11_serverless/lambda.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md) · [Well-Architected Framework](../stage-14_architecture/well_architected.md)

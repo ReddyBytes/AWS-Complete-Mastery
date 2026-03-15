@@ -445,4 +445,10 @@ IAM policies secure AWS service access. Lake Formation secures data access at th
 **Q: What is the difference between a tumbling window and a sliding window in Flink?**
 Tumbling windows are non-overlapping fixed buckets — events belong to exactly one window. "Count sales per 5-minute period" produces one result every 5 minutes. Sliding windows overlap — a 5-minute window that slides every 1 minute produces a new result every minute, each covering the last 5 minutes. Sliding windows are more responsive (detect fraud sooner) but use more compute (each event participates in multiple windows). Use tumbling for reporting/aggregation; sliding for real-time monitoring and anomaly detection.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Athena, Glue & Redshift](../stage-12_data_analytics/athena_glue_redshift.md) &nbsp;|&nbsp; **Next:** [CI/CD Pipeline →](../stage-13_devops_cicd/cicd_pipeline.md)
+
+**Related Topics:** [Kinesis Streaming](../stage-12_data_analytics/kinesis.md) · [Athena, Glue & Redshift](../stage-12_data_analytics/athena_glue_redshift.md) · [S3 Object Storage](../stage-04_storage/s3.md) · [IAM](../stage-06_security/iam.md)

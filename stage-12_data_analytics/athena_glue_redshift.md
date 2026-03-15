@@ -329,4 +329,10 @@ Three main strategies: (1) Use columnar formats (Parquet/ORC) — Athena only re
 **Q: What is AWS Glue and when would you use it?**
 Glue has two main parts: the Data Catalog (metadata store for tables across S3, RDS, Redshift — shared by Athena, EMR, Redshift Spectrum) and serverless ETL jobs (Python/PySpark scripts that transform data). Use Glue when you need to convert raw data formats (JSON → Parquet), deduplicate, join data from multiple sources, or schedule recurring data transformation pipelines. Alternative: if your team prefers SQL transformations, consider dbt (data build tool) on top of Redshift.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Kinesis Streaming](../stage-12_data_analytics/kinesis.md) &nbsp;|&nbsp; **Next:** [EMR, Lake Formation & Flink →](../stage-12_data_analytics/emr_lake_formation_flink.md)
+
+**Related Topics:** [S3 Object Storage](../stage-04_storage/s3.md) · [Kinesis Streaming](../stage-12_data_analytics/kinesis.md) · [EMR, Lake Formation & Flink](../stage-12_data_analytics/emr_lake_formation_flink.md) · [DynamoDB](../stage-07_databases/dynamodb.md)

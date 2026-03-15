@@ -245,4 +245,10 @@ Both provide API access to foundation models. Bedrock is AWS-native: your reques
 **Q: When would you use provisioned throughput vs on-demand for Bedrock?**
 On-demand is pay-per-token with no guarantees — good for development, testing, and variable workloads. Provisioned throughput reserves model units for guaranteed throughput (tokens per minute) — use it when you have consistent high-volume production traffic, need predictable latency (no throttling), or want cost predictability. For batch processing large datasets offline, use Batch Inference at 50% discount.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Cost Optimization](../stage-15_cost_optimization/theory.md) &nbsp;|&nbsp; **Next:** [Bedrock Agents →](../stage-16_ai_ml/bedrock_agents.md)
+
+**Related Topics:** [Bedrock Agents](../stage-16_ai_ml/bedrock_agents.md) · [Knowledge Bases (RAG)](../stage-16_ai_ml/bedrock_knowledge_bases.md) · [Guardrails & Amazon Q](../stage-16_ai_ml/guardrails_amazon_q.md) · [SageMaker](../stage-16_ai_ml/sagemaker.md)

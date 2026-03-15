@@ -355,4 +355,10 @@ A canary deployment gradually shifts traffic to the new version. Example: 10% of
 **Q: How would you set up a CI/CD pipeline that deploys to staging automatically but requires approval for production?**
 CodePipeline with 4 stages: (1) Source — GitHub webhook triggers on push to main. (2) Build — CodeBuild runs tests, builds Docker image, pushes to ECR. (3) Deploy Staging — CodeDeploy deploys to staging ECS service automatically. (4) Manual Approval — SNS notifies the team; someone reviews staging and approves/rejects in the console. (5) Deploy Production — CodeDeploy deploys same artifact to production ECS with blue/green and CloudWatch alarm-based rollback.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← EMR, Lake Formation & Flink](../stage-12_data_analytics/emr_lake_formation_flink.md) &nbsp;|&nbsp; **Next:** [High Availability →](../stage-14_architecture/high_availability.md)
+
+**Related Topics:** [CloudFormation](../stage-09_iac/cloudformation.md) · [CDK & Terraform](../stage-09_iac/cdk_terraform.md) · [ECS](../stage-10_containers/ecs.md) · [Lambda](../stage-11_serverless/lambda.md)

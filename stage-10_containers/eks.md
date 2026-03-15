@@ -383,4 +383,10 @@ IRSA (IAM Roles for Service Accounts) lets individual pods assume specific IAM r
 **Q: How does Kubernetes handle pod scaling vs node scaling?**
 Two separate systems: HPA (Horizontal Pod Autoscaler) scales pods based on CPU/memory/custom metrics — fast, seconds to add a pod. Cluster Autoscaler (or Karpenter) scales nodes when pods can't be scheduled due to insufficient resources — slower, 1-3 minutes to provision an EC2. Both work together: HPA adds pods → CA adds nodes when pods are pending.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← ECS](../stage-10_containers/ecs.md) &nbsp;|&nbsp; **Next:** [Lambda →](../stage-11_serverless/lambda.md)
+
+**Related Topics:** [ECS](../stage-10_containers/ecs.md) · [IAM](../stage-06_security/iam.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md)

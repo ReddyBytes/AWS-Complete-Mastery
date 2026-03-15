@@ -699,6 +699,10 @@ An AMI (Amazon Machine Image) is a template that defines the OS, installed softw
    • Delete unattached EBS volumes
 ```
 
-**Next:** [Stage 03b → Auto Scaling & Load Balancing](./auto_scaling.md)
+---
 
-**Back to root** → [../README.md](../README.md)
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Global Infrastructure](../stage-02_global_infrastructure/theory.md) &nbsp;|&nbsp; **Next:** [Auto Scaling & Load Balancing →](../stage-03_compute/auto_scaling.md)
+
+**Related Topics:** [Auto Scaling & Load Balancing](../stage-03_compute/auto_scaling.md) · [VPC Networking](../stage-05_networking/vpc.md) · [IAM](../stage-06_security/iam.md) · [EBS & EFS](../stage-04_storage/ebs_efs.md)

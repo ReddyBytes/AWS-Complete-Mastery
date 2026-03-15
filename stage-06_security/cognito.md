@@ -353,4 +353,10 @@ Create a Cognito User Pool Authorizer in API Gateway — point it at your User P
 **Q: How would you handle authorization (what users can do) with Cognito?**
 Cognito handles authentication (who you are) but authorization logic belongs in your application. Common approaches: (1) Cognito Groups — assign users to groups (admin, premium), read `cognito:groups` claim in Lambda and apply business rules. (2) Custom claims — add user tier/permissions as custom claims in a Pre Token Generation Lambda trigger. (3) Database lookup — use the `sub` (user ID) from the JWT to look up the user's permissions in DynamoDB on each request.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← KMS & Encryption](../stage-06_security/kms.md) &nbsp;|&nbsp; **Next:** [WAF, Shield & GuardDuty →](../stage-06_security/waf_shield_guardduty.md)
+
+**Related Topics:** [IAM](../stage-06_security/iam.md) · [API Gateway](../stage-11_serverless/api_gateway.md) · [Lambda](../stage-11_serverless/lambda.md) · [KMS & Encryption](../stage-06_security/kms.md)

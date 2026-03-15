@@ -360,4 +360,10 @@ A Change Set lets you preview exactly what CloudFormation will add, modify, or d
 **Q: What is the difference between CloudFormation and CDK?**
 CloudFormation uses YAML/JSON templates — verbose but accessible without programming knowledge. CDK uses real programming languages (Python, TypeScript, Java) to define stacks as code. CDK synthesizes CloudFormation templates under the hood. CDK provides higher-level abstractions (e.g., one line to create an ECS service with ALB vs hundreds of YAML lines). CDK is preferred for complex applications where programming constructs (loops, functions, conditions) simplify the code.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md) &nbsp;|&nbsp; **Next:** [CDK & Terraform →](../stage-09_iac/cdk_terraform.md)
+
+**Related Topics:** [CDK & Terraform](../stage-09_iac/cdk_terraform.md) · [EC2](../stage-03_compute/ec2.md) · [ECS](../stage-10_containers/ecs.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md)

@@ -340,4 +340,10 @@ It allows a Step Functions workflow to pause while waiting for an external syste
 **Q: What is the difference between Standard and Express workflows?**
 Standard workflows support execution up to 1 year, have exactly-once execution semantics, maintain full execution history in the console, and cost $0.025 per 1,000 state transitions. Use for long-running business processes (order fulfillment, approval workflows). Express workflows support up to 5 minutes, are designed for high-volume event processing (thousands/second), and cost per request + duration. Use for real-time data processing, microservice orchestration, IoT event handling.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← SQS, SNS & EventBridge](../stage-11_serverless/sqs_sns_eventbridge.md) &nbsp;|&nbsp; **Next:** [Kinesis Streaming →](../stage-12_data_analytics/kinesis.md)
+
+**Related Topics:** [Lambda](../stage-11_serverless/lambda.md) · [SQS, SNS & EventBridge](../stage-11_serverless/sqs_sns_eventbridge.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md) · [Bedrock Agents](../stage-16_ai_ml/bedrock_agents.md)

@@ -331,4 +331,10 @@ A Service Control Policy is attached at the AWS Organization OU or account level
 **Q: What is IAM Identity Center?**
 AWS's SSO service. It provides a single login portal for accessing multiple AWS accounts and applications. Integrates with corporate identity providers (Active Directory, Okta, Azure AD). Assigns Permission Sets (collections of IAM policies) to users/groups per account. Eliminates the need for IAM users in each account. All access uses temporary credentials.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Route 53 & CloudFront](../stage-05_networking/route53_cloudfront.md) &nbsp;|&nbsp; **Next:** [KMS & Encryption →](../stage-06_security/kms.md)
+
+**Related Topics:** [KMS & Encryption](../stage-06_security/kms.md) · [Cognito](../stage-06_security/cognito.md) · [WAF, Shield & GuardDuty](../stage-06_security/waf_shield_guardduty.md) · [VPC Networking](../stage-05_networking/vpc.md)

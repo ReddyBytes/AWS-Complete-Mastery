@@ -407,4 +407,10 @@ Terraform stores the current state of deployed infrastructure in a state file. I
 **Q: What is `cdk diff` equivalent to in Terraform?**
 Both `cdk diff` and `terraform plan` show what will change before you deploy — what resources will be created, modified, or deleted. This is critical for production deployments: always run diff/plan, review the output, then deploy. CDK diff integrates with CloudFormation change sets; Terraform plan compares desired state to state file.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← CloudFormation](../stage-09_iac/cloudformation.md) &nbsp;|&nbsp; **Next:** [ECS →](../stage-10_containers/ecs.md)
+
+**Related Topics:** [CloudFormation](../stage-09_iac/cloudformation.md) · [EC2](../stage-03_compute/ec2.md) · [ECS](../stage-10_containers/ecs.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md)

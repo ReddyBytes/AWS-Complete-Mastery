@@ -345,4 +345,10 @@ Automated response with EventBridge + Lambda: (1) Immediately isolate the instan
 **Q: What is Amazon Macie used for?**
 Macie uses ML to automatically discover and protect sensitive data in S3 buckets. It detects PII (SSNs, credit cards, medical records), AWS credentials, and identifies publicly accessible or unencrypted buckets containing sensitive data. Essential for GDPR, HIPAA, and PCI DSS compliance — you need to know where your sensitive data lives before you can protect it.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Cognito](../stage-06_security/cognito.md) &nbsp;|&nbsp; **Next:** [RDS & Aurora →](../stage-07_databases/rds_aurora.md)
+
+**Related Topics:** [Route 53 & CloudFront](../stage-05_networking/route53_cloudfront.md) · [VPC Networking](../stage-05_networking/vpc.md) · [IAM](../stage-06_security/iam.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md)

@@ -285,4 +285,10 @@ Fargate is serverless compute for ECS/EKS. You don't provision or manage EC2 ins
 **Q: How does an ECS task access AWS services (like S3 or DynamoDB)?**
 Attach an IAM Task Role to the Task Definition. The ECS agent injects temporary credentials into the task's metadata endpoint. The SDK inside the container automatically fetches these credentials. This is separate from the Task Execution Role (which ECS uses to pull images from ECR and write logs to CloudWatch).
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← CDK & Terraform](../stage-09_iac/cdk_terraform.md) &nbsp;|&nbsp; **Next:** [EKS →](../stage-10_containers/eks.md)
+
+**Related Topics:** [EKS](../stage-10_containers/eks.md) · [Lambda](../stage-11_serverless/lambda.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md) · [CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md)

@@ -169,4 +169,10 @@ Data Streams: low-level, you write producers and consumers, real-time (< 1s), or
 **Q: What is a Kinesis shard?**
 A shard is the unit of capacity in Kinesis Data Streams. Each shard provides 1MB/s write and 2MB/s read throughput. You scale by adding/removing shards (splitting/merging). Records with the same partition key always go to the same shard (ensures ordering). Or use On-Demand mode and AWS handles shard scaling automatically.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Step Functions](../stage-11_serverless/step_functions.md) &nbsp;|&nbsp; **Next:** [Athena, Glue & Redshift →](../stage-12_data_analytics/athena_glue_redshift.md)
+
+**Related Topics:** [SQS, SNS & EventBridge](../stage-11_serverless/sqs_sns_eventbridge.md) · [Athena, Glue & Redshift](../stage-12_data_analytics/athena_glue_redshift.md) · [EMR, Lake Formation & Flink](../stage-12_data_analytics/emr_lake_formation_flink.md) · [DynamoDB](../stage-07_databases/dynamodb.md)

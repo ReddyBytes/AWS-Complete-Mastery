@@ -221,4 +221,10 @@ HA protects against component or AZ-level failures within a region. It involves 
 **Q: How would you design a system that survives an entire AWS Region going down?**
 Active-Active: Route 53 latency or geolocation routing to ALBs in two regions. Aurora Global Database (primary in us-east-1, secondary in eu-west-1). DynamoDB Global Tables. S3 Cross-Region Replication. If us-east-1 fails: Route 53 health checks detect failure, route 100% traffic to eu-west-1, Aurora Global promotes secondary to primary (~1 min), DynamoDB auto-routes to eu-west-1 replica.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← CI/CD Pipeline](../stage-13_devops_cicd/cicd_pipeline.md) &nbsp;|&nbsp; **Next:** [Well-Architected Framework →](../stage-14_architecture/well_architected.md)
+
+**Related Topics:** [Well-Architected Framework](../stage-14_architecture/well_architected.md) · [Disaster Recovery](../stage-14_architecture/disaster_recovery.md) · [Route 53 & CloudFront](../stage-05_networking/route53_cloudfront.md) · [RDS & Aurora](../stage-07_databases/rds_aurora.md)

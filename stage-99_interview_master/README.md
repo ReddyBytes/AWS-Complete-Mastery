@@ -2,6 +2,8 @@
 
 > 100 most important AWS interview questions, architectural scenarios, and rapid-fire answers.
 
+**Also see:** [Scenario & Architecture Q&A](./scenarios.md) — 25 deep-dive real interview scenarios with full solutions.
+
 ---
 
 ## The Interview Scenario
@@ -392,4 +394,10 @@ Trade-off Analysis:
   ✅ Reserved vs Spot vs On-Demand
 ```
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Pre-Built AI Services](../stage-16_ai_ml/ai_services.md) &nbsp;|&nbsp; **Next:** [Scenario & Architecture Q&A →](../stage-99_interview_master/scenarios.md)
+
+**Related Topics:** [Scenario & Architecture Q&A](../stage-99_interview_master/scenarios.md) · [Well-Architected Framework](../stage-14_architecture/well_architected.md) · [High Availability](../stage-14_architecture/high_availability.md) · [Disaster Recovery](../stage-14_architecture/disaster_recovery.md)

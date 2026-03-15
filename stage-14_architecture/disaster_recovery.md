@@ -368,4 +368,10 @@ RTO (Recovery Time Objective) is the maximum acceptable time the system can be d
 **Q: What is chaos engineering and how would you implement it on AWS?**
 Chaos engineering intentionally injects failures into production (or staging) systems to verify they're actually resilient. The insight: you don't know your system handles failure until you've tested it failing. AWS Fault Injection Simulator (FIS) lets you run controlled experiments: terminate a percentage of EC2 instances, inject network latency, fail an AZ. You set stop conditions (CloudWatch alarms) to abort automatically if impact is too high. Start in staging, graduate to production during low-traffic periods. Monthly chaos experiments build confidence that your DR, auto-healing, and alerting actually work.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Well-Architected Framework](../stage-14_architecture/well_architected.md) &nbsp;|&nbsp; **Next:** [Cost Optimization →](../stage-15_cost_optimization/theory.md)
+
+**Related Topics:** [High Availability](../stage-14_architecture/high_availability.md) · [Well-Architected Framework](../stage-14_architecture/well_architected.md) · [RDS & Aurora](../stage-07_databases/rds_aurora.md) · [CloudWatch & Observability](../stage-08_monitoring/cloudwatch.md)

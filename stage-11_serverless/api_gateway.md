@@ -189,4 +189,10 @@ HTTP API (v2) is newer, simpler, ~70% cheaper, and ~60% faster than REST API (v1
 **Q: How does API Gateway handle authentication?**
 Four options: (1) IAM Auth — request signed with AWS signature, good for service-to-service. (2) Cognito User Pools — validates JWT from Cognito, good for user-facing apps. (3) Lambda Authorizer — custom Lambda validates any token format, returns IAM policy. (4) API Keys — for usage tracking and throttling, not real authentication. Most web/mobile apps use Cognito; inter-service use IAM.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Lambda](../stage-11_serverless/lambda.md) &nbsp;|&nbsp; **Next:** [AppSync (GraphQL) →](../stage-11_serverless/appsync.md)
+
+**Related Topics:** [Lambda](../stage-11_serverless/lambda.md) · [Cognito](../stage-06_security/cognito.md) · [AppSync (GraphQL)](../stage-11_serverless/appsync.md) · [WAF, Shield & GuardDuty](../stage-06_security/waf_shield_guardduty.md)

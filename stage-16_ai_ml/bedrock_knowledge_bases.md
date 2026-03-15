@@ -406,4 +406,10 @@ RAG (Retrieval Augmented Generation) retrieves relevant document chunks at query
 **Q: What is hybrid search in Knowledge Bases?**
 Hybrid search combines vector search (semantic similarity) with traditional keyword search (BM25). Vector search finds conceptually similar content even without exact keywords. Keyword search finds exact term matches. Hybrid search merges both results, giving better coverage: vector search handles paraphrasing and synonyms; keyword search handles specific product codes, names, and acronyms. Always prefer hybrid search in production Knowledge Bases.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Bedrock Agents](../stage-16_ai_ml/bedrock_agents.md) &nbsp;|&nbsp; **Next:** [Guardrails & Amazon Q →](../stage-16_ai_ml/guardrails_amazon_q.md)
+
+**Related Topics:** [Amazon Bedrock](../stage-16_ai_ml/bedrock.md) · [Bedrock Agents](../stage-16_ai_ml/bedrock_agents.md) · [Guardrails & Amazon Q](../stage-16_ai_ml/guardrails_amazon_q.md) · [S3 Object Storage](../stage-04_storage/s3.md)

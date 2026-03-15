@@ -370,4 +370,10 @@ Reserved Instances: commit to a specific instance type in a specific region. Mor
 **Q: A team's AWS bill jumped 300% last month. How do you investigate?**
 (1) AWS Cost Explorer: compare last month vs current month, breakdown by service. (2) Look for the biggest increase — which service? (3) Cost Explorer: filter by that service, group by Region/AZ/usage type. (4) Check CloudTrail: was there a configuration change (new instance type, new service launched)? (5) Enable AWS Cost Anomaly Detection to alert on future spikes immediately.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← Disaster Recovery](../stage-14_architecture/disaster_recovery.md) &nbsp;|&nbsp; **Next:** [Amazon Bedrock →](../stage-16_ai_ml/bedrock.md)
+
+**Related Topics:** [Well-Architected Framework](../stage-14_architecture/well_architected.md) · [EC2](../stage-03_compute/ec2.md) · [RDS & Aurora](../stage-07_databases/rds_aurora.md) · [S3 Object Storage](../stage-04_storage/s3.md)

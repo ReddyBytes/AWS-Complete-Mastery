@@ -438,4 +438,10 @@ The N+1 problem: if you fetch a list of 10 posts, and each post needs the author
 **Q: When would you choose AppSync over API Gateway?**
 AppSync shines when clients need to fetch nested/related data in a single request, need real-time subscriptions (chat, live dashboards), or need offline sync (mobile apps). API Gateway is better for simple REST APIs, public HTTP integrations, webhooks, or when clients are non-GraphQL. For a mobile social app with real-time features, AppSync is a clear win. For a simple CRUD backend with external REST consumers, API Gateway wins.
 
-**Back to root** → [../README.md](../README.md)
+---
+
+**[🏠 Back to README](../README.md)**
+
+**Prev:** [← API Gateway](../stage-11_serverless/api_gateway.md) &nbsp;|&nbsp; **Next:** [SQS, SNS & EventBridge →](../stage-11_serverless/sqs_sns_eventbridge.md)
+
+**Related Topics:** [API Gateway](../stage-11_serverless/api_gateway.md) · [DynamoDB](../stage-07_databases/dynamodb.md) · [Lambda](../stage-11_serverless/lambda.md) · [Cognito](../stage-06_security/cognito.md)
