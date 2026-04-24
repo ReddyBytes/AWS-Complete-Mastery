@@ -390,3 +390,11 @@ Two separate systems: HPA (Horizontal Pod Autoscaler) scales pods based on CPU/m
 **Prev:** [← ECS](../10_containers/ecs.md) &nbsp;|&nbsp; **Next:** [Lambda →](../11_serverless/lambda.md)
 
 **Related Topics:** [ECS](../10_containers/ecs.md) · [IAM](../06_security/iam.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md) · [CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q46 · eks-basics](../aws_practice_questions_100.md#q46--normal--eks-basics)
+- 📝 [Q72 · eks-node-groups](../aws_practice_questions_100.md#q72--thinking--eks-node-groups)
+

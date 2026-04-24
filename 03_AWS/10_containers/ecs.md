@@ -292,3 +292,13 @@ Attach an IAM Task Role to the Task Definition. The ECS agent injects temporary 
 **Prev:** [← CDK & Terraform](../09_iac/cdk_terraform.md) &nbsp;|&nbsp; **Next:** [EKS →](../10_containers/eks.md)
 
 **Related Topics:** [EKS](../10_containers/eks.md) · [Lambda](../11_serverless/lambda.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md) · [CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q44 · ecs-basics](../aws_practice_questions_100.md#q44--normal--ecs-basics)
+- 📝 [Q45 · ecs-fargate](../aws_practice_questions_100.md#q45--normal--ecs-fargate)
+- 📝 [Q71 · ecs-networking](../aws_practice_questions_100.md#q71--thinking--ecs-networking)
+- 📝 [Q86 · compare-fargate-ec2](../aws_practice_questions_100.md#q86--interview--compare-fargate-ec2)
+

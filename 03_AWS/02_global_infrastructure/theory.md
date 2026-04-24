@@ -474,3 +474,10 @@ Edge locations are part of CloudFront's CDN network (~400 locations globally). T
 **Prev:** [← Cloud Foundations](../01_cloud_foundations/theory.md) &nbsp;|&nbsp; **Next:** [EC2 →](../03_compute/ec2.md)
 
 **Related Topics:** [Cloud Foundations](../01_cloud_foundations/theory.md) · [VPC Networking](../05_networking/vpc.md) · [Route 53 & CloudFront](../05_networking/route53_cloudfront.md) · [IAM](../06_security/iam.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q3 · aws-global-infrastructure](../aws_practice_questions_100.md#q3--normal--aws-global-infrastructure)
+

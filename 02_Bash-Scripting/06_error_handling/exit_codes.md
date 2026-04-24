@@ -331,3 +331,14 @@ exit $E_SUCCESS
 **Prev:** [← Pipes and Redirection](../05_input_output/pipes_and_redirection.md) &nbsp;|&nbsp; **Next:** [Traps →](./traps.md)
 
 **Related Topics:** [Traps](./traps.md) · [Debugging](./debugging.md) · [Deployment Scripts](../08_real_world_scripts/deployment_scripts.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q29 · exit-codes](../bash_practice_questions_100.md#q29--normal--exit-codes)
+- 📝 [Q30 · set-options](../bash_practice_questions_100.md#q30--critical--set-options)
+- 📝 [Q46 · error-handling-pattern](../bash_practice_questions_100.md#q46--normal--error-handling-pattern)
+- 📝 [Q76 · explain-set-e](../bash_practice_questions_100.md#q76--interview--explain-set-e)
+- 📝 [Q92 · predict-set-e](../bash_practice_questions_100.md#q92--logical--predict-set-e)
+

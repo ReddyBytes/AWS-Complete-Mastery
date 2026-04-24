@@ -352,3 +352,11 @@ Macie uses ML to automatically discover and protect sensitive data in S3 buckets
 **Prev:** [← Cognito](../06_security/cognito.md) &nbsp;|&nbsp; **Next:** [RDS & Aurora →](../07_databases/rds_aurora.md)
 
 **Related Topics:** [Route 53 & CloudFront](../05_networking/route53_cloudfront.md) · [VPC Networking](../05_networking/vpc.md) · [IAM](../06_security/iam.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q62 · waf-shield](../aws_practice_questions_100.md#q62--normal--waf-shield)
+- 📝 [Q63 · guardduty](../aws_practice_questions_100.md#q63--normal--guardduty)
+

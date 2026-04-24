@@ -303,3 +303,13 @@ Debug workflow:
 **Prev:** [← systemd Services](./systemd_services.md) &nbsp;|&nbsp; **Next:** [Disk Management →](./disk_management.md)
 
 **Related Topics:** [systemd Services](./systemd_services.md) · [Disk Management](./disk_management.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q40 · journalctl](../linux_practice_questions_100.md#q40--normal--journalctl)
+- 📝 [Q70 · log-rotation](../linux_practice_questions_100.md#q70--thinking--log-rotation)
+- 📝 [Q88 · scenario-log-analysis](../linux_practice_questions_100.md#q88--design--scenario-log-analysis)
+- 📝 [Q97 · design-log-pipeline](../linux_practice_questions_100.md#q97--design--design-log-pipeline)
+

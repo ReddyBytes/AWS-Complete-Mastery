@@ -324,3 +324,14 @@ done < servers.csv
 **Prev:** [← Conditionals](./conditionals.md) &nbsp;|&nbsp; **Next:** [Case Statements →](./case_statements.md)
 
 **Related Topics:** [Arrays](../02_variables_and_data/arrays.md) · [File Operations](../05_input_output/file_operations.md) · [Automation](../07_automation/cron_jobs.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q12 · for-loop](../bash_practice_questions_100.md#q12--normal--for-loop)
+- 📝 [Q13 · while-loop](../bash_practice_questions_100.md#q13--thinking--while-loop)
+- 📝 [Q14 · until-loop](../bash_practice_questions_100.md#q14--logical--until-loop)
+- 📝 [Q15 · loop-control](../bash_practice_questions_100.md#q15--normal--loop-control)
+- 📝 [Q95 · debug-glob-expand](../bash_practice_questions_100.md#q95--debug--debug-glob-expand)
+

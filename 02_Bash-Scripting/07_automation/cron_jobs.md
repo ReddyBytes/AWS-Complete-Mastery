@@ -318,3 +318,11 @@ journalctl -u cron | tail -20
 **Prev:** [← Debugging](../06_error_handling/debugging.md) &nbsp;|&nbsp; **Next:** [Scheduling →](./scheduling.md)
 
 **Related Topics:** [Scheduling](./scheduling.md) · [System Monitoring](../08_real_world_scripts/system_monitoring.md) · [Backup Scripts](../08_real_world_scripts/backup_scripts.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q51 · cron-scripting](../bash_practice_questions_100.md#q51--normal--cron-scripting)
+- 📝 [Q85 · scenario-cleanup-script](../bash_practice_questions_100.md#q85--design--scenario-cleanup-script)
+

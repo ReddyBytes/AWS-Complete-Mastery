@@ -398,3 +398,10 @@ Usage:
 **Prev:** [← Traps](./traps.md) &nbsp;|&nbsp; **Next:** [Cron Jobs →](../07_automation/cron_jobs.md)
 
 **Related Topics:** [Exit Codes](./exit_codes.md) · [Traps](./traps.md) · [Functions](../04_functions/functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q47 · debugging-bash](../bash_practice_questions_100.md#q47--normal--debugging-bash)
+

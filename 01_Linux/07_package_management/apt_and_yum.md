@@ -298,3 +298,12 @@ Key insight:
 **Prev:** [← Firewall](../06_networking/firewall.md) &nbsp;|&nbsp; **Next:** [Build from Source →](./build_from_source.md)
 
 **Related Topics:** [Build from Source](./build_from_source.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q26 · package-managers](../linux_practice_questions_100.md#q26--normal--package-managers)
+- 📝 [Q27 · apt-workflow](../linux_practice_questions_100.md#q27--thinking--apt-workflow)
+- 📝 [Q28 · yum-dnf](../linux_practice_questions_100.md#q28--normal--yum-dnf)
+

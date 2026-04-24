@@ -223,3 +223,12 @@ Secrets Manager stores secrets encrypted with KMS, provides automatic rotation, 
 **Prev:** [← IAM](../06_security/iam.md) &nbsp;|&nbsp; **Next:** [Cognito →](../06_security/cognito.md)
 
 **Related Topics:** [IAM](../06_security/iam.md) · [S3 Object Storage](../04_storage/s3.md) · [RDS & Aurora](../07_databases/rds_aurora.md) · [Cognito](../06_security/cognito.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q37 · security-kms](../aws_practice_questions_100.md#q37--normal--security-kms)
+- 📝 [Q64 · secrets-manager](../aws_practice_questions_100.md#q64--normal--secrets-manager)
+- 📝 [Q90 · scenario-secrets-rotation](../aws_practice_questions_100.md#q90--design--scenario-secrets-rotation)
+

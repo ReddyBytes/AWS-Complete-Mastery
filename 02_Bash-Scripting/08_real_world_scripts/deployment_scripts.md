@@ -477,3 +477,14 @@ main "$@"
 **Prev:** [← Backup Scripts](./backup_scripts.md) &nbsp;|&nbsp; **Next:** [Bash Interview Questions →](../99_interview_master/bash_questions.md)
 
 **Related Topics:** [Exit Codes](../06_error_handling/exit_codes.md) · [Traps](../06_error_handling/traps.md) · [Functions](../04_functions/functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q63 · script-best-practices](../bash_practice_questions_100.md#q63--normal--script-best-practices)
+- 📝 [Q77 · compare-bash-python](../bash_practice_questions_100.md#q77--interview--compare-bash-python)
+- 📝 [Q81 · scenario-deployment-script](../bash_practice_questions_100.md#q81--design--scenario-deployment-script)
+- 📝 [Q84 · scenario-config-management](../bash_practice_questions_100.md#q84--design--scenario-config-management)
+- 📝 [Q97 · design-idempotent-script](../bash_practice_questions_100.md#q97--design--design-idempotent-script)
+

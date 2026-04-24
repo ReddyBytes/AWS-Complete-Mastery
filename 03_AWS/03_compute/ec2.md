@@ -706,3 +706,15 @@ An AMI (Amazon Machine Image) is a template that defines the OS, installed softw
 **Prev:** [← Global Infrastructure](../02_global_infrastructure/theory.md) &nbsp;|&nbsp; **Next:** [Auto Scaling & Load Balancing →](../03_compute/auto_scaling.md)
 
 **Related Topics:** [Auto Scaling & Load Balancing](../03_compute/auto_scaling.md) · [VPC Networking](../05_networking/vpc.md) · [IAM](../06_security/iam.md) · [EBS & EFS](../04_storage/ebs_efs.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q4 · ec2-basics](../aws_practice_questions_100.md#q4--normal--ec2-basics)
+- 📝 [Q5 · ec2-instance-types](../aws_practice_questions_100.md#q5--thinking--ec2-instance-types)
+- 📝 [Q6 · ec2-lifecycle](../aws_practice_questions_100.md#q6--normal--ec2-lifecycle)
+- 📝 [Q7 · ec2-user-data](../aws_practice_questions_100.md#q7--normal--ec2-user-data)
+- 📝 [Q27 · elb-basics](../aws_practice_questions_100.md#q27--normal--elb-basics)
+- 📝 [Q28 · alb-vs-nlb](../aws_practice_questions_100.md#q28--critical--alb-vs-nlb)
+

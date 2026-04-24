@@ -232,3 +232,11 @@ terraform destroy # delete the bucket when done
 **Prev:** [← Bash Interview Questions](../../02_Bash-Scripting/99_interview_master/bash_questions.md) &nbsp;|&nbsp; **Next:** [Terraform vs Others →](./terraform_vs_others.md)
 
 **Related Topics:** [Installation](./installation.md) · [HCL Syntax](../02_hcl_basics/syntax.md) · [Providers](../03_providers_resources/providers.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q1 · what-is-terraform](../terraform_practice_questions_100.md#q1--normal--what-is-terraform)
+- 📝 [Q3 · iac-benefits](../terraform_practice_questions_100.md#q3--normal--iac-benefits)
+

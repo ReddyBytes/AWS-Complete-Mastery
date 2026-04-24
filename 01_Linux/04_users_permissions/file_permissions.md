@@ -293,3 +293,18 @@ Common values:
 **Prev:** [← Users and Groups](./users_and_groups.md) &nbsp;|&nbsp; **Next:** [Sudo and Root →](./sudo_and_root.md)
 
 **Related Topics:** [Users and Groups](./users_and_groups.md) · [Sudo and Root](./sudo_and_root.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q10 · file-permissions-read](../linux_practice_questions_100.md#q10--normal--file-permissions-read)
+- 📝 [Q11 · chmod](../linux_practice_questions_100.md#q11--normal--chmod)
+- 📝 [Q12 · chown](../linux_practice_questions_100.md#q12--normal--chown)
+- 📝 [Q25 · file-ownership](../linux_practice_questions_100.md#q25--critical--file-ownership)
+- 📝 [Q34 · umask](../linux_practice_questions_100.md#q34--normal--umask)
+- 📝 [Q35 · special-permissions](../linux_practice_questions_100.md#q35--normal--special-permissions)
+- 📝 [Q36 · acl-permissions](../linux_practice_questions_100.md#q36--normal--acl-permissions)
+- 📝 [Q76 · explain-permissions-junior](../linux_practice_questions_100.md#q76--interview--explain-permissions-junior)
+- 📝 [Q91 · predict-permissions](../linux_practice_questions_100.md#q91--logical--predict-permissions)
+

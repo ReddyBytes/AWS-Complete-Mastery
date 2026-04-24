@@ -584,3 +584,19 @@ Lambda polls SQS using an Event Source Mapping. It retrieves batches of messages
 **Prev:** [← EKS](../10_containers/eks.md) &nbsp;|&nbsp; **Next:** [API Gateway →](../11_serverless/api_gateway.md)
 
 **Related Topics:** [API Gateway](../11_serverless/api_gateway.md) · [SQS, SNS & EventBridge](../11_serverless/sqs_sns_eventbridge.md) · [Step Functions](../11_serverless/step_functions.md) · [DynamoDB](../07_databases/dynamodb.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q22 · lambda-basics](../aws_practice_questions_100.md#q22--normal--lambda-basics)
+- 📝 [Q23 · lambda-limits](../aws_practice_questions_100.md#q23--normal--lambda-limits)
+- 📝 [Q24 · lambda-cold-start](../aws_practice_questions_100.md#q24--thinking--lambda-cold-start)
+- 📝 [Q69 · lambda-layers](../aws_practice_questions_100.md#q69--thinking--lambda-layers)
+- 📝 [Q70 · lambda-concurrency](../aws_practice_questions_100.md#q70--thinking--lambda-concurrency)
+- 📝 [Q80 · explain-lambda-cold-start](../aws_practice_questions_100.md#q80--interview--explain-lambda-cold-start)
+- 📝 [Q83 · scenario-lambda-timeout](../aws_practice_questions_100.md#q83--design--scenario-lambda-timeout)
+- 📝 [Q93 · predict-lambda-timeout](../aws_practice_questions_100.md#q93--logical--predict-lambda-timeout)
+- 📝 [Q96 · debug-lambda-environment](../aws_practice_questions_100.md#q96--debug--debug-lambda-environment)
+- 📝 [Q100 · edge-case-lambda-concurrency](../aws_practice_questions_100.md#q100--critical--edge-case-lambda-concurrency)
+

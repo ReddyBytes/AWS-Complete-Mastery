@@ -338,3 +338,18 @@ AWS's SSO service. It provides a single login portal for accessing multiple AWS 
 **Prev:** [← Route 53 & CloudFront](../05_networking/route53_cloudfront.md) &nbsp;|&nbsp; **Next:** [KMS & Encryption →](../06_security/kms.md)
 
 **Related Topics:** [KMS & Encryption](../06_security/kms.md) · [Cognito](../06_security/cognito.md) · [WAF, Shield & GuardDuty](../06_security/waf_shield_guardduty.md) · [VPC Networking](../05_networking/vpc.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q13 · iam-basics](../aws_practice_questions_100.md#q13--normal--iam-basics)
+- 📝 [Q14 · iam-policies](../aws_practice_questions_100.md#q14--thinking--iam-policies)
+- 📝 [Q15 · iam-least-privilege](../aws_practice_questions_100.md#q15--interview--iam-least-privilege)
+- 📝 [Q33 · iam-roles-ec2](../aws_practice_questions_100.md#q33--interview--iam-roles-ec2)
+- 📝 [Q38 · security-iam-advanced](../aws_practice_questions_100.md#q38--normal--security-iam-advanced)
+- 📝 [Q61 · iam-conditions](../aws_practice_questions_100.md#q61--normal--iam-conditions)
+- 📝 [Q78 · explain-iam-roles](../aws_practice_questions_100.md#q78--interview--explain-iam-roles)
+- 📝 [Q82 · scenario-data-breach](../aws_practice_questions_100.md#q82--design--scenario-data-breach)
+- 📝 [Q94 · debug-iam-access-denied](../aws_practice_questions_100.md#q94--debug--debug-iam-access-denied)
+

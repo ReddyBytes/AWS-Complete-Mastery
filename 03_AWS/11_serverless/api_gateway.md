@@ -196,3 +196,11 @@ Four options: (1) IAM Auth — request signed with AWS signature, good for servi
 **Prev:** [← Lambda](../11_serverless/lambda.md) &nbsp;|&nbsp; **Next:** [AppSync (GraphQL) →](../11_serverless/appsync.md)
 
 **Related Topics:** [Lambda](../11_serverless/lambda.md) · [Cognito](../06_security/cognito.md) · [AppSync (GraphQL)](../11_serverless/appsync.md) · [WAF, Shield & GuardDuty](../06_security/waf_shield_guardduty.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q47 · api-gateway](../aws_practice_questions_100.md#q47--normal--api-gateway)
+- 📝 [Q48 · api-gateway-lambda](../aws_practice_questions_100.md#q48--normal--api-gateway-lambda)
+

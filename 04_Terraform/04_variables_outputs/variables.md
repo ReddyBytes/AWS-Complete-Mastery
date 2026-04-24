@@ -319,3 +319,14 @@ key_pair_name = "my-dev-key"
 **Prev:** [← Data Sources](../03_providers_resources/data_sources.md) &nbsp;|&nbsp; **Next:** [Outputs →](./outputs.md)
 
 **Related Topics:** [Outputs](./outputs.md) · [Locals](./locals.md) · [Security Best Practices](../09_best_practices/security.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q8 · variables-input](../terraform_practice_questions_100.md#q8--normal--variables-input)
+- 📝 [Q9 · variable-types](../terraform_practice_questions_100.md#q9--normal--variable-types)
+- 📝 [Q10 · variable-precedence](../terraform_practice_questions_100.md#q10--thinking--variable-precedence)
+- 📝 [Q51 · sensitive-variables](../terraform_practice_questions_100.md#q51--normal--sensitive-variables)
+- 📝 [Q99 · edge-case-null-value](../terraform_practice_questions_100.md#q99--critical--edge-case-null-value)
+

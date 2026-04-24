@@ -286,3 +286,11 @@ github.com/myorg/
 **Prev:** [← Workspaces](./workspaces.md) &nbsp;|&nbsp; **Next:** [VPC with Terraform →](../08_aws_with_terraform/vpc.md)
 
 **Related Topics:** [Workspaces](./workspaces.md) · [Module Composition](../06_modules/module_composition.md) · [CI/CD Integration](../09_best_practices/ci_cd_integration.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q40 · environments-pattern](../terraform_practice_questions_100.md#q40--normal--environments-pattern)
+- 📝 [Q79 · compare-workspaces-directories](../terraform_practice_questions_100.md#q79--interview--compare-workspaces-directories)
+

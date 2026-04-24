@@ -326,3 +326,12 @@ echo "Starting deployment..."
 **Prev:** [← Scope and Return](../04_functions/scope_and_return.md) &nbsp;|&nbsp; **Next:** [File Operations →](./file_operations.md)
 
 **Related Topics:** [Conditionals](../03_control_flow/conditionals.md) · [Case Statements](../03_control_flow/case_statements.md) · [Variables](../02_variables_and_data/variables.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q22 · read-input](../bash_practice_questions_100.md#q22--normal--read-input)
+- 📝 [Q49 · getopts](../bash_practice_questions_100.md#q49--normal--getopts)
+- 📝 [Q50 · script-arguments-validation](../bash_practice_questions_100.md#q50--normal--script-arguments-validation)
+

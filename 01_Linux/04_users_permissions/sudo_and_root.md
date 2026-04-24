@@ -296,3 +296,12 @@ Security:
 **Prev:** [← File Permissions](./file_permissions.md) &nbsp;|&nbsp; **Next:** [Process Management →](../05_processes/process_management.md)
 
 **Related Topics:** [Users and Groups](./users_and_groups.md) · [File Permissions](./file_permissions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q23 · sudo](../linux_practice_questions_100.md#q23--normal--sudo)
+- 📝 [Q73 · security-hardening](../linux_practice_questions_100.md#q73--thinking--security-hardening)
+- 📝 [Q74 · selinux-apparmor](../linux_practice_questions_100.md#q74--thinking--selinux-apparmor)
+

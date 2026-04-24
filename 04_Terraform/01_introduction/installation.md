@@ -324,3 +324,15 @@ If you see your AWS account ID, Terraform is installed and connected correctly.
 **Prev:** [← Terraform vs Others](./terraform_vs_others.md) &nbsp;|&nbsp; **Next:** [HCL Syntax →](../02_hcl_basics/syntax.md)
 
 **Related Topics:** [What is Terraform](./what_is_terraform.md) · [Providers](../03_providers_resources/providers.md) · [Security Best Practices](../09_best_practices/security.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q4 · terraform-workflow](../terraform_practice_questions_100.md#q4--normal--terraform-workflow)
+- 📝 [Q17 · terraform-plan](../terraform_practice_questions_100.md#q17--debug--terraform-plan)
+- 📝 [Q18 · terraform-apply](../terraform_practice_questions_100.md#q18--normal--terraform-apply)
+- 📝 [Q19 · terraform-destroy](../terraform_practice_questions_100.md#q19--critical--terraform-destroy)
+- 📝 [Q30 · terraform-fmt](../terraform_practice_questions_100.md#q30--normal--terraform-fmt)
+- 📝 [Q80 · explain-plan-apply](../terraform_practice_questions_100.md#q80--interview--explain-plan-apply)
+

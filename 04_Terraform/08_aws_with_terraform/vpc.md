@@ -346,3 +346,10 @@ terraform destroy -var="project=myapp" -var="environment=dev"
 **Prev:** [← Environments](../07_workspaces/environments.md) &nbsp;|&nbsp; **Next:** [EC2 →](./ec2.md)
 
 **Related Topics:** [EC2](./ec2.md) · [Security Groups](./iam.md) · [Module Registry VPC](../06_modules/module_registry.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q53 · aws-with-terraform-vpc](../terraform_practice_questions_100.md#q53--normal--aws-with-terraform-vpc)
+

@@ -343,3 +343,16 @@ echo "All checks passed. Proceeding with deployment..."
 **Prev:** [← String Operations](../02_variables_and_data/string_operations.md) &nbsp;|&nbsp; **Next:** [Loops →](./loops.md)
 
 **Related Topics:** [Case Statements](./case_statements.md) · [Exit Codes](../06_error_handling/exit_codes.md) · [User Input](../05_input_output/user_input.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q9 · if-conditions](../bash_practice_questions_100.md#q9--thinking--if-conditions)
+- 📝 [Q10 · test-operators](../bash_practice_questions_100.md#q10--normal--test-operators)
+- 📝 [Q11 · string-comparison](../bash_practice_questions_100.md#q11--thinking--string-comparison)
+- 📝 [Q36 · regex-in-bash](../bash_practice_questions_100.md#q36--normal--regex-in-bash)
+- 📝 [Q71 · glob-vs-regex](../bash_practice_questions_100.md#q71--thinking--glob-vs-regex)
+- 📝 [Q79 · compare-test-brackets](../bash_practice_questions_100.md#q79--interview--compare-test-brackets)
+- 📝 [Q96 · debug-integer-compare](../bash_practice_questions_100.md#q96--debug--debug-integer-compare)
+

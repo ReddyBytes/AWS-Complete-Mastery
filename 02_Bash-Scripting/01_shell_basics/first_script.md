@@ -235,3 +235,15 @@ This header comment block is like the label on a recipe card. Anyone picking up 
 **Prev:** [← Linux Interview Questions](../../01_Linux/99_interview_master/linux_questions.md) &nbsp;|&nbsp; **Next:** [Shebang and Execution →](./shebang_and_execution.md)
 
 **Related Topics:** [Variables](../02_variables_and_data/variables.md) · [User Input](../05_input_output/user_input.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q26 · glob-patterns](../bash_practice_questions_100.md#q26--normal--glob-patterns)
+- 📝 [Q58 · config-files](../bash_practice_questions_100.md#q58--normal--config-files)
+- 📝 [Q64 · version-check](../bash_practice_questions_100.md#q64--normal--version-check)
+- 📝 [Q69 · builtin-vs-external](../bash_practice_questions_100.md#q69--thinking--builtin-vs-external)
+- 📝 [Q73 · bash-profile-rc](../bash_practice_questions_100.md#q73--thinking--bash-profile-rc)
+- 📝 [Q74 · completion-scripts](../bash_practice_questions_100.md#q74--thinking--completion-scripts)
+

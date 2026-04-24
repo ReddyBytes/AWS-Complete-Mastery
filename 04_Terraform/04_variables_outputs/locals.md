@@ -307,3 +307,10 @@ resource "aws_db_instance" "main" {
 **Prev:** [← Outputs](./outputs.md) &nbsp;|&nbsp; **Next:** [State File →](../05_state_management/state_file.md)
 
 **Related Topics:** [Variables](./variables.md) · [Outputs](./outputs.md) · [Expressions](../02_hcl_basics/expressions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q12 · locals](../terraform_practice_questions_100.md#q12--normal--locals)
+

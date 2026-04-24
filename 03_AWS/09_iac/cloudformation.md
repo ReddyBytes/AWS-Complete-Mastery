@@ -367,3 +367,11 @@ CloudFormation uses YAML/JSON templates — verbose but accessible without progr
 **Prev:** [← OpenTelemetry on AWS](../08_monitoring/otel.md) &nbsp;|&nbsp; **Next:** [CDK & Terraform →](../09_iac/cdk_terraform.md)
 
 **Related Topics:** [CDK & Terraform](../09_iac/cdk_terraform.md) · [EC2](../03_compute/ec2.md) · [ECS](../10_containers/ecs.md) · [CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q32 · cloudformation-basics](../aws_practice_questions_100.md#q32--normal--cloudformation-basics)
+- 📝 [Q87 · explain-cloudformation-drift](../aws_practice_questions_100.md#q87--interview--explain-cloudformation-drift)
+

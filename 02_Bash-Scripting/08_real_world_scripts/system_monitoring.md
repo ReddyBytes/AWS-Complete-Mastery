@@ -343,3 +343,15 @@ systemctl enable --now system-monitor.timer
 **Prev:** [← Scheduling](../07_automation/scheduling.md) &nbsp;|&nbsp; **Next:** [Backup Scripts →](./backup_scripts.md)
 
 **Related Topics:** [Cron Jobs](../07_automation/cron_jobs.md) · [Exit Codes](../06_error_handling/exit_codes.md) · [Traps](../06_error_handling/traps.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q59 · logging-pattern](../bash_practice_questions_100.md#q59--normal--logging-pattern)
+- 📝 [Q65 · json-in-bash](../bash_practice_questions_100.md#q65--normal--json-in-bash)
+- 📝 [Q66 · performance-bash](../bash_practice_questions_100.md#q66--normal--performance-bash)
+- 📝 [Q82 · scenario-log-monitor](../bash_practice_questions_100.md#q82--design--scenario-log-monitor)
+- 📝 [Q88 · scenario-csv-processing](../bash_practice_questions_100.md#q88--design--scenario-csv-processing)
+- 📝 [Q89 · scenario-health-check](../bash_practice_questions_100.md#q89--design--scenario-health-check)
+

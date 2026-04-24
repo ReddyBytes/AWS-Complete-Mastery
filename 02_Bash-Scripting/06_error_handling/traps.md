@@ -357,3 +357,14 @@ echo "Deployment successful: $(date)" | tee -a "$LOG_FILE"
 **Prev:** [← Exit Codes](./exit_codes.md) &nbsp;|&nbsp; **Next:** [Debugging →](./debugging.md)
 
 **Related Topics:** [Exit Codes](./exit_codes.md) · [Deployment Scripts](../08_real_world_scripts/deployment_scripts.md) · [Functions](../04_functions/functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q31 · trap-basics](../bash_practice_questions_100.md#q31--design--trap-basics)
+- 📝 [Q45 · signal-handling](../bash_practice_questions_100.md#q45--normal--signal-handling)
+- 📝 [Q48 · exit-trap](../bash_practice_questions_100.md#q48--normal--exit-trap)
+- 📝 [Q90 · compare-signals](../bash_practice_questions_100.md#q90--interview--compare-signals)
+- 📝 [Q100 · edge-case-signal-cleanup](../bash_practice_questions_100.md#q100--critical--edge-case-signal-cleanup)
+

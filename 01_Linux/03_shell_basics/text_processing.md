@@ -315,3 +315,14 @@ Combine them with pipes | to build powerful one-liners.
 **Prev:** [← Pipes and Redirection](./pipes_and_redirection.md) &nbsp;|&nbsp; **Next:** [Users and Groups →](../04_users_permissions/users_and_groups.md)
 
 **Related Topics:** [Shell Commands](./commands.md) · [Pipes and Redirection](./pipes_and_redirection.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q16 · grep-basics](../linux_practice_questions_100.md#q16--normal--grep-basics)
+- 📝 [Q17 · sed-basics](../linux_practice_questions_100.md#q17--normal--sed-basics)
+- 📝 [Q18 · awk-basics](../linux_practice_questions_100.md#q18--thinking--awk-basics)
+- 📝 [Q57 · text-processing-pipeline](../linux_practice_questions_100.md#q57--normal--text-processing-pipeline)
+- 📝 [Q58 · xargs](../linux_practice_questions_100.md#q58--normal--xargs)
+

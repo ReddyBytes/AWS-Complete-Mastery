@@ -324,3 +324,10 @@ resource "aws_iam_instance_profile" "app" {
 **Prev:** [← S3](./s3.md) &nbsp;|&nbsp; **Next:** [RDS →](./rds.md)
 
 **Related Topics:** [EC2](./ec2.md) · [S3](./s3.md) · [Security Best Practices](../09_best_practices/security.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q56 · aws-with-terraform-iam](../terraform_practice_questions_100.md#q56--normal--aws-with-terraform-iam)
+

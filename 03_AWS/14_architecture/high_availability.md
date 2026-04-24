@@ -228,3 +228,12 @@ Active-Active: Route 53 latency or geolocation routing to ALBs in two regions. A
 **Prev:** [← CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md) &nbsp;|&nbsp; **Next:** [Well-Architected Framework →](../14_architecture/well_architected.md)
 
 **Related Topics:** [Well-Architected Framework](../14_architecture/well_architected.md) · [Disaster Recovery](../14_architecture/disaster_recovery.md) · [Route 53 & CloudFront](../05_networking/route53_cloudfront.md) · [RDS & Aurora](../07_databases/rds_aurora.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q58 · high-availability-patterns](../aws_practice_questions_100.md#q58--normal--high-availability-patterns)
+- 📝 [Q84 · scenario-multi-region](../aws_practice_questions_100.md#q84--design--scenario-multi-region)
+- 📝 [Q98 · design-blue-green-deployment](../aws_practice_questions_100.md#q98--design--design-blue-green-deployment)
+

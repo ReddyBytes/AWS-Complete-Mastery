@@ -176,3 +176,10 @@ A shard is the unit of capacity in Kinesis Data Streams. Each shard provides 1MB
 **Prev:** [← Step Functions](../11_serverless/step_functions.md) &nbsp;|&nbsp; **Next:** [Athena, Glue & Redshift →](../12_data_analytics/athena_glue_redshift.md)
 
 **Related Topics:** [SQS, SNS & EventBridge](../11_serverless/sqs_sns_eventbridge.md) · [Athena, Glue & Redshift](../12_data_analytics/athena_glue_redshift.md) · [EMR, Lake Formation & Flink](../12_data_analytics/emr_lake_formation_flink.md) · [DynamoDB](../07_databases/dynamodb.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q66 · kinesis-streams](../aws_practice_questions_100.md#q66--normal--kinesis-streams)
+

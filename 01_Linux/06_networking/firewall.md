@@ -291,3 +291,11 @@ Two layers:
 **Prev:** [← SSH](./ssh.md) &nbsp;|&nbsp; **Next:** [Package Management →](../07_package_management/apt_and_yum.md)
 
 **Related Topics:** [Network Commands](./network_commands.md) · [SSH](./ssh.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q47 · firewall-ufw](../linux_practice_questions_100.md#q47--normal--firewall-ufw)
+- 📝 [Q48 · iptables-basics](../linux_practice_questions_100.md#q48--normal--iptables-basics)
+

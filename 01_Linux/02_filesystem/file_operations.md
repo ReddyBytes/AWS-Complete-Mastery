@@ -318,3 +318,14 @@ wc -l           # count lines
 **Prev:** [← Directory Structure](./directory_structure.md) &nbsp;|&nbsp; **Next:** [Links and Inodes →](./links_and_inodes.md)
 
 **Related Topics:** [Directory Structure](./directory_structure.md) · [Links and Inodes](./links_and_inodes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q7 · ls-command](../linux_practice_questions_100.md#q7--normal--ls-command)
+- 📝 [Q8 · file-operations](../linux_practice_questions_100.md#q8--normal--file-operations)
+- 📝 [Q9 · find-command](../linux_practice_questions_100.md#q9--thinking--find-command)
+- 📝 [Q46 · tar-compression](../linux_practice_questions_100.md#q46--normal--tar-compression)
+- 📝 [Q99 · edge-case-find-xargs](../linux_practice_questions_100.md#q99--critical--edge-case-find-xargs)
+

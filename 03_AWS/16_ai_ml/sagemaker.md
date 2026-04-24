@@ -353,3 +353,10 @@ A training job is ephemeral — it spins up compute, runs your training script, 
 **Prev:** [← Guardrails & Amazon Q](../16_ai_ml/guardrails_amazon_q.md) &nbsp;|&nbsp; **Next:** [Pre-Built AI Services →](../16_ai_ml/ai_services.md)
 
 **Related Topics:** [Amazon Bedrock](../16_ai_ml/bedrock.md) · [Pre-Built AI Services](../16_ai_ml/ai_services.md) · [S3 Object Storage](../04_storage/s3.md) · [ECS](../10_containers/ecs.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q68 · sagemaker-overview](../aws_practice_questions_100.md#q68--thinking--sagemaker-overview)
+

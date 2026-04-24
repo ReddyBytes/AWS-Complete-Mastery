@@ -281,3 +281,20 @@ echo "Deploying version $VERSION to $ENVIRONMENT in $REGION"
 **Prev:** [← Shebang and Execution](../01_shell_basics/shebang_and_execution.md) &nbsp;|&nbsp; **Next:** [Arrays →](./arrays.md)
 
 **Related Topics:** [String Operations](./string_operations.md) · [Functions](../04_functions/functions.md) · [Exit Codes](../06_error_handling/exit_codes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q3 · variables-basics](../bash_practice_questions_100.md#q3--thinking--variables-basics)
+- 📝 [Q4 · variable-types](../bash_practice_questions_100.md#q4--normal--variable-types)
+- 📝 [Q6 · arithmetic](../bash_practice_questions_100.md#q6--thinking--arithmetic)
+- 📝 [Q20 · positional-params](../bash_practice_questions_100.md#q20--normal--positional-params)
+- 📝 [Q21 · special-vars](../bash_practice_questions_100.md#q21--normal--special-vars)
+- 📝 [Q24 · command-substitution](../bash_practice_questions_100.md#q24--normal--command-substitution)
+- 📝 [Q27 · quoting-rules](../bash_practice_questions_100.md#q27--debug--quoting-rules)
+- 📝 [Q33 · parameter-expansion](../bash_practice_questions_100.md#q33--thinking--parameter-expansion)
+- 📝 [Q70 · word-splitting](../bash_practice_questions_100.md#q70--thinking--word-splitting)
+- 📝 [Q80 · explain-ifs](../bash_practice_questions_100.md#q80--interview--explain-ifs)
+- 📝 [Q91 · predict-quoting](../bash_practice_questions_100.md#q91--logical--predict-quoting)
+

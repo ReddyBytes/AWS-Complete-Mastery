@@ -306,3 +306,12 @@ atlantis apply -p myapp-prod
 **Prev:** [← Security](./security.md) &nbsp;|&nbsp; **Next:** [Terraform Interview Questions →](../99_interview_master/terraform_questions.md)
 
 **Related Topics:** [Security](./security.md) · [Remote State](../05_state_management/remote_state.md) · [Code Organization](./code_organization.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q60 · ci-cd-terraform](../terraform_practice_questions_100.md#q60--normal--ci-cd-terraform)
+- 📝 [Q64 · terraform-cloud](../terraform_practice_questions_100.md#q64--normal--terraform-cloud)
+- 📝 [Q66 · atlantis](../terraform_practice_questions_100.md#q66--normal--atlantis)
+

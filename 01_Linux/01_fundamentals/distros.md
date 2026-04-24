@@ -250,3 +250,10 @@ Once you know one distro, learning another takes days not months.
 **Prev:** [← Architecture](./architecture.md) &nbsp;|&nbsp; **Next:** [Directory Structure →](../02_filesystem/directory_structure.md)
 
 **Related Topics:** [Overview](./overview.md) · [Architecture](./architecture.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q2 · linux-distros](../linux_practice_questions_100.md#q2--normal--linux-distros)
+

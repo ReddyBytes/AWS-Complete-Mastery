@@ -325,3 +325,12 @@ Fields:
 **Prev:** [← Cron Jobs](./cron_jobs.md) &nbsp;|&nbsp; **Next:** [System Monitoring →](../08_real_world_scripts/system_monitoring.md)
 
 **Related Topics:** [Cron Jobs](./cron_jobs.md) · [System Monitoring](../08_real_world_scripts/system_monitoring.md) · [Backup Scripts](../08_real_world_scripts/backup_scripts.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q52 · at-command](../bash_practice_questions_100.md#q52--normal--at-command)
+- 📝 [Q57 · locking-scripts](../bash_practice_questions_100.md#q57--normal--locking-scripts)
+- 📝 [Q83 · scenario-parallel-downloads](../bash_practice_questions_100.md#q83--design--scenario-parallel-downloads)
+

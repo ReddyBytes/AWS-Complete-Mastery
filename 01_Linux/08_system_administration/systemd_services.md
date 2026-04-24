@@ -320,3 +320,16 @@ Restart policies:
 **Prev:** [← Build from Source](../07_package_management/build_from_source.md) &nbsp;|&nbsp; **Next:** [Logs and journalctl →](./logs_and_journalctl.md)
 
 **Related Topics:** [Logs and journalctl](./logs_and_journalctl.md) · [Disk Management](./disk_management.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q38 · systemd-basics](../linux_practice_questions_100.md#q38--normal--systemd-basics)
+- 📝 [Q39 · systemd-units](../linux_practice_questions_100.md#q39--normal--systemd-units)
+- 📝 [Q41 · cron-jobs](../linux_practice_questions_100.md#q41--normal--cron-jobs)
+- 📝 [Q64 · sysctl](../linux_practice_questions_100.md#q64--normal--sysctl)
+- 📝 [Q85 · scenario-cron-not-running](../linux_practice_questions_100.md#q85--design--scenario-cron-not-running)
+- 📝 [Q86 · compare-sysv-systemd](../linux_practice_questions_100.md#q86--interview--compare-sysv-systemd)
+- 📝 [Q96 · debug-cron-env](../linux_practice_questions_100.md#q96--debug--debug-cron-env)
+

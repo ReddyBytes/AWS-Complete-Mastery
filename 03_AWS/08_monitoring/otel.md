@@ -761,3 +761,10 @@ The sidecar pattern runs one ADOT Collector container per ECS Task or Kubernetes
 **Prev:** [← CloudWatch & Observability](../08_monitoring/cloudwatch.md) &nbsp;|&nbsp; **Next:** [CloudFormation →](../09_iac/cloudformation.md)
 
 **Related Topics:** [CloudWatch & Observability](../08_monitoring/cloudwatch.md) · [ECS](../10_containers/ecs.md) · [EKS](../10_containers/eks.md) · [Lambda](../11_serverless/lambda.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q53 · xray](../aws_practice_questions_100.md#q53--normal--xray)
+

@@ -313,3 +313,16 @@ provider "registry.terraform.io/hashicorp/aws" {
 **Prev:** [← Expressions](../02_hcl_basics/expressions.md) &nbsp;|&nbsp; **Next:** [Resources →](./resources.md)
 
 **Related Topics:** [Resources](./resources.md) · [Data Sources](./data_sources.md) · [Installation](../01_introduction/installation.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q7 · provider-block](../terraform_practice_questions_100.md#q7--normal--provider-block)
+- 📝 [Q23 · providers-init](../terraform_practice_questions_100.md#q23--normal--providers-init)
+- 📝 [Q58 · version-constraints](../terraform_practice_questions_100.md#q58--normal--version-constraints)
+- 📝 [Q59 · terraform-lock-file](../terraform_practice_questions_100.md#q59--normal--terraform-lock-file)
+- 📝 [Q67 · provider-alias](../terraform_practice_questions_100.md#q67--thinking--provider-alias)
+- 📝 [Q73 · provider-upgrades](../terraform_practice_questions_100.md#q73--thinking--provider-upgrades)
+- 📝 [Q95 · debug-provider-version](../terraform_practice_questions_100.md#q95--debug--debug-provider-version)
+

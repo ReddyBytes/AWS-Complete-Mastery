@@ -274,3 +274,11 @@ Source-built vs package manager:
 **Prev:** [← apt and yum](./apt_and_yum.md) &nbsp;|&nbsp; **Next:** [systemd Services →](../08_system_administration/systemd_services.md)
 
 **Related Topics:** [apt and yum](./apt_and_yum.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q61 · build-from-source](../linux_practice_questions_100.md#q61--normal--build-from-source)
+- 📝 [Q62 · shared-libraries](../linux_practice_questions_100.md#q62--normal--shared-libraries)
+

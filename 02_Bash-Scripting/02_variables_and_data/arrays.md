@@ -302,3 +302,15 @@ docker "${docker_args[@]}"
 **Prev:** [← Variables](./variables.md) &nbsp;|&nbsp; **Next:** [String Operations →](./string_operations.md)
 
 **Related Topics:** [Loops](../03_control_flow/loops.md) · [Functions](../04_functions/functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q7 · arrays-basics](../bash_practice_questions_100.md#q7--normal--arrays-basics)
+- 📝 [Q8 · associative-arrays](../bash_practice_questions_100.md#q8--normal--associative-arrays)
+- 📝 [Q37 · arrays-advanced](../bash_practice_questions_100.md#q37--normal--arrays-advanced)
+- 📝 [Q38 · mapfile-readarray](../bash_practice_questions_100.md#q38--normal--mapfile-readarray)
+- 📝 [Q61 · string-to-array](../bash_practice_questions_100.md#q61--normal--string-to-array)
+- 📝 [Q99 · edge-case-empty-array](../bash_practice_questions_100.md#q99--critical--edge-case-empty-array)
+

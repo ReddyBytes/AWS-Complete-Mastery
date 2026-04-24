@@ -286,3 +286,17 @@ Useful patterns:
 **Prev:** [← Shell Commands](./commands.md) &nbsp;|&nbsp; **Next:** [Text Processing →](./text_processing.md)
 
 **Related Topics:** [Shell Commands](./commands.md) · [Text Processing](./text_processing.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q13 · pipes](../linux_practice_questions_100.md#q13--thinking--pipes)
+- 📝 [Q14 · redirection](../linux_practice_questions_100.md#q14--normal--redirection)
+- 📝 [Q15 · stdin-stdout-stderr](../linux_practice_questions_100.md#q15--critical--stdin-stdout-stderr)
+- 📝 [Q54 · file-descriptors](../linux_practice_questions_100.md#q54--normal--file-descriptors)
+- 📝 [Q59 · here-documents](../linux_practice_questions_100.md#q59--normal--here-documents)
+- 📝 [Q80 · explain-file-descriptors](../linux_practice_questions_100.md#q80--interview--explain-file-descriptors)
+- 📝 [Q92 · predict-redirect](../linux_practice_questions_100.md#q92--logical--predict-redirect)
+- 📝 [Q93 · predict-pipe-exit](../linux_practice_questions_100.md#q93--logical--predict-pipe-exit)
+

@@ -284,3 +284,21 @@ Load:
 **Prev:** [← Sudo and Root](../04_users_permissions/sudo_and_root.md) &nbsp;|&nbsp; **Next:** [Signals →](./signals.md)
 
 **Related Topics:** [Signals](./signals.md) · [Jobs and Daemons](./jobs_and_daemons.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q19 · process-list](../linux_practice_questions_100.md#q19--normal--process-list)
+- 📝 [Q51 · memory-management](../linux_practice_questions_100.md#q51--normal--memory-management)
+- 📝 [Q53 · load-average](../linux_practice_questions_100.md#q53--normal--load-average)
+- 📝 [Q65 · resource-limits](../linux_practice_questions_100.md#q65--normal--resource-limits)
+- 📝 [Q66 · strace-ltrace](../linux_practice_questions_100.md#q66--normal--strace-ltrace)
+- 📝 [Q67 · performance-profiling](../linux_practice_questions_100.md#q67--thinking--performance-profiling)
+- 📝 [Q71 · cgroups](../linux_practice_questions_100.md#q71--thinking--cgroups)
+- 📝 [Q72 · namespaces](../linux_practice_questions_100.md#q72--thinking--namespaces)
+- 📝 [Q77 · compare-processes-threads](../linux_practice_questions_100.md#q77--interview--compare-processes-threads)
+- 📝 [Q83 · scenario-process-killed](../linux_practice_questions_100.md#q83--design--scenario-process-killed)
+- 📝 [Q84 · scenario-high-load](../linux_practice_questions_100.md#q84--design--scenario-high-load)
+- 📝 [Q95 · debug-zombie-process](../linux_practice_questions_100.md#q95--debug--debug-zombie-process)
+

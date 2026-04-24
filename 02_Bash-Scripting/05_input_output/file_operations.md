@@ -354,3 +354,12 @@ echo "Report saved to: $REPORT_FILE"
 **Prev:** [← User Input](./user_input.md) &nbsp;|&nbsp; **Next:** [Pipes and Redirection →](./pipes_and_redirection.md)
 
 **Related Topics:** [Loops](../03_control_flow/loops.md) · [String Operations](../02_variables_and_data/string_operations.md) · [Backup Scripts](../08_real_world_scripts/backup_scripts.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q39 · file-io-advanced](../bash_practice_questions_100.md#q39--normal--file-io-advanced)
+- 📝 [Q40 · output-formatting](../bash_practice_questions_100.md#q40--normal--output-formatting)
+- 📝 [Q56 · temp-files-safely](../bash_practice_questions_100.md#q56--normal--temp-files-safely)
+

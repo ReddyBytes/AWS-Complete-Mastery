@@ -336,3 +336,10 @@ Glue has two main parts: the Data Catalog (metadata store for tables across S3, 
 **Prev:** [← Kinesis Streaming](../12_data_analytics/kinesis.md) &nbsp;|&nbsp; **Next:** [EMR, Lake Formation & Flink →](../12_data_analytics/emr_lake_formation_flink.md)
 
 **Related Topics:** [S3 Object Storage](../04_storage/s3.md) · [Kinesis Streaming](../12_data_analytics/kinesis.md) · [EMR, Lake Formation & Flink](../12_data_analytics/emr_lake_formation_flink.md) · [DynamoDB](../07_databases/dynamodb.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q65 · glue-athena](../aws_practice_questions_100.md#q65--normal--glue-athena)
+

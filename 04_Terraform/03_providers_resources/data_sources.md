@@ -330,3 +330,10 @@ resource "aws_instance" "app" {
 **Prev:** [← Resources](./resources.md) &nbsp;|&nbsp; **Next:** [Variables →](../04_variables_outputs/variables.md)
 
 **Related Topics:** [Resources](./resources.md) · [Variables](../04_variables_outputs/variables.md) · [EC2 with Terraform](../08_aws_with_terraform/ec2.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q13 · data-sources](../terraform_practice_questions_100.md#q13--normal--data-sources)
+

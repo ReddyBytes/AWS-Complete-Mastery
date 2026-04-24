@@ -320,3 +320,15 @@ log "Script starting on $(get_instance_id)"
 **Prev:** [← Functions](./functions.md) &nbsp;|&nbsp; **Next:** [User Input →](../05_input_output/user_input.md)
 
 **Related Topics:** [Functions](./functions.md) · [Exit Codes](../06_error_handling/exit_codes.md) · [Variables](../02_variables_and_data/variables.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q18 · function-return](../bash_practice_questions_100.md#q18--thinking--function-return)
+- 📝 [Q19 · local-variables](../bash_practice_questions_100.md#q19--debug--local-variables)
+- 📝 [Q42 · subshells](../bash_practice_questions_100.md#q42--normal--subshells)
+- 📝 [Q72 · process-groups](../bash_practice_questions_100.md#q72--thinking--process-groups)
+- 📝 [Q78 · explain-subshell](../bash_practice_questions_100.md#q78--interview--explain-subshell)
+- 📝 [Q93 · predict-subshell-var](../bash_practice_questions_100.md#q93--logical--predict-subshell-var)
+

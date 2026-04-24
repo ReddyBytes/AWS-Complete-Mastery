@@ -320,3 +320,11 @@ Standard style:
 **Prev:** [← Installation](../01_introduction/installation.md) &nbsp;|&nbsp; **Next:** [Data Types →](./data_types.md)
 
 **Related Topics:** [Data Types](./data_types.md) · [Expressions](./expressions.md) · [Variables](../04_variables_outputs/variables.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q5 · hcl-basics](../terraform_practice_questions_100.md#q5--normal--hcl-basics)
+- 📝 [Q25 · string-interpolation](../terraform_practice_questions_100.md#q25--normal--string-interpolation)
+

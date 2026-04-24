@@ -391,3 +391,15 @@ Clean up: Delete replica, delete DB, delete snapshot (to avoid charges)
 **Prev:** [← WAF, Shield & GuardDuty](../06_security/waf_shield_guardduty.md) &nbsp;|&nbsp; **Next:** [DynamoDB →](../07_databases/dynamodb.md)
 
 **Related Topics:** [DynamoDB](../07_databases/dynamodb.md) · [ElastiCache Redis](../07_databases/elasticache.md) · [VPC Networking](../05_networking/vpc.md) · [Disaster Recovery](../14_architecture/disaster_recovery.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q19 · rds-basics](../aws_practice_questions_100.md#q19--normal--rds-basics)
+- 📝 [Q20 · rds-multi-az](../aws_practice_questions_100.md#q20--normal--rds-multi-az)
+- 📝 [Q21 · rds-read-replicas](../aws_practice_questions_100.md#q21--thinking--rds-read-replicas)
+- 📝 [Q73 · rds-aurora](../aws_practice_questions_100.md#q73--thinking--rds-aurora)
+- 📝 [Q79 · compare-rds-dynamodb](../aws_practice_questions_100.md#q79--interview--compare-rds-dynamodb)
+- 📝 [Q89 · scenario-database-migration](../aws_practice_questions_100.md#q89--design--scenario-database-migration)
+

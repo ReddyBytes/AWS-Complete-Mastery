@@ -294,3 +294,10 @@ Speed matters (faster to implement)        You are building a module for
 **Prev:** [← Creating Modules](./creating_modules.md) &nbsp;|&nbsp; **Next:** [Module Composition →](./module_composition.md)
 
 **Related Topics:** [Creating Modules](./creating_modules.md) · [Module Composition](./module_composition.md) · [VPC with Terraform](../08_aws_with_terraform/vpc.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q36 · module-registry](../terraform_practice_questions_100.md#q36--normal--module-registry)
+

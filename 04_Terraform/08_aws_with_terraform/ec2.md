@@ -330,3 +330,10 @@ aws ssm start-session --target $(terraform output -raw instance_id)
 **Prev:** [← VPC](./vpc.md) &nbsp;|&nbsp; **Next:** [S3 →](./s3.md)
 
 **Related Topics:** [VPC](./vpc.md) · [IAM](./iam.md) · [Data Sources](../03_providers_resources/data_sources.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q54 · aws-with-terraform-ec2](../terraform_practice_questions_100.md#q54--normal--aws-with-terraform-ec2)
+

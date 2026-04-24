@@ -255,3 +255,14 @@ chmod +x env_check.sh
 **Prev:** [← First Script](./first_script.md) &nbsp;|&nbsp; **Next:** [Variables →](../02_variables_and_data/variables.md)
 
 **Related Topics:** [Functions](../04_functions/functions.md) · [Debugging](../06_error_handling/debugging.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q1 · shebang](../bash_practice_questions_100.md#q1--normal--shebang)
+- 📝 [Q2 · script-execution](../bash_practice_questions_100.md#q2--normal--script-execution)
+- 📝 [Q67 · bash-internals](../bash_practice_questions_100.md#q67--thinking--bash-internals)
+- 📝 [Q68 · fork-exec](../bash_practice_questions_100.md#q68--thinking--fork-exec)
+- 📝 [Q87 · compare-exec-source](../bash_practice_questions_100.md#q87--interview--compare-exec-source)
+

@@ -377,3 +377,11 @@ Reserved Instances: commit to a specific instance type in a specific region. Mor
 **Prev:** [← Disaster Recovery](../14_architecture/disaster_recovery.md) &nbsp;|&nbsp; **Next:** [Amazon Bedrock →](../16_ai_ml/bedrock.md)
 
 **Related Topics:** [Well-Architected Framework](../14_architecture/well_architected.md) · [EC2](../03_compute/ec2.md) · [RDS & Aurora](../07_databases/rds_aurora.md) · [S3 Object Storage](../04_storage/s3.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q60 · cost-optimization](../aws_practice_questions_100.md#q60--normal--cost-optimization)
+- 📝 [Q85 · scenario-cost-spike](../aws_practice_questions_100.md#q85--design--scenario-cost-spike)
+

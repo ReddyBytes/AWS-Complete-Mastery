@@ -401,3 +401,16 @@ SNS is a simple pub/sub service — publish a message, all subscribers get it. E
 **Prev:** [← AppSync (GraphQL)](../11_serverless/appsync.md) &nbsp;|&nbsp; **Next:** [Step Functions →](../11_serverless/step_functions.md)
 
 **Related Topics:** [Lambda](../11_serverless/lambda.md) · [Step Functions](../11_serverless/step_functions.md) · [Kinesis Streaming](../12_data_analytics/kinesis.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q30 · sqs-basics](../aws_practice_questions_100.md#q30--normal--sqs-basics)
+- 📝 [Q31 · sns-basics](../aws_practice_questions_100.md#q31--thinking--sns-basics)
+- 📝 [Q49 · sqs-advanced](../aws_practice_questions_100.md#q49--normal--sqs-advanced)
+- 📝 [Q50 · eventbridge](../aws_practice_questions_100.md#q50--normal--eventbridge)
+- 📝 [Q77 · compare-sqs-sns-eventbridge](../aws_practice_questions_100.md#q77--interview--compare-sqs-sns-eventbridge)
+- 📝 [Q88 · scenario-microservices-comm](../aws_practice_questions_100.md#q88--design--scenario-microservices-comm)
+- 📝 [Q99 · edge-case-sqs-deduplication](../aws_practice_questions_100.md#q99--critical--edge-case-sqs-deduplication)
+

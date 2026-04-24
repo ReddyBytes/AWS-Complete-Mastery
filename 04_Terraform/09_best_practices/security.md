@@ -338,3 +338,14 @@ checkov -d .
 **Prev:** [← Code Organization](./code_organization.md) &nbsp;|&nbsp; **Next:** [CI/CD Integration →](./ci_cd_integration.md)
 
 **Related Topics:** [Code Organization](./code_organization.md) · [Remote State](../05_state_management/remote_state.md) · [IAM](../08_aws_with_terraform/iam.md) · [Variables](../04_variables_outputs/variables.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q52 · secrets-in-terraform](../terraform_practice_questions_100.md#q52--normal--secrets-in-terraform)
+- 📝 [Q62 · security-best-practices](../terraform_practice_questions_100.md#q62--normal--security-best-practices)
+- 📝 [Q65 · sentinel-policies](../terraform_practice_questions_100.md#q65--normal--sentinel-policies)
+- 📝 [Q89 · scenario-secret-rotation](../terraform_practice_questions_100.md#q89--design--scenario-secret-rotation)
+- 📝 [Q90 · scenario-compliance](../terraform_practice_questions_100.md#q90--design--scenario-compliance)
+

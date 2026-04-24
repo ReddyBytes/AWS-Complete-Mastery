@@ -375,3 +375,10 @@ Chaos engineering intentionally injects failures into production (or staging) sy
 **Prev:** [← Well-Architected Framework](../14_architecture/well_architected.md) &nbsp;|&nbsp; **Next:** [Cost Optimization →](../15_cost_optimization/theory.md)
 
 **Related Topics:** [High Availability](../14_architecture/high_availability.md) · [Well-Architected Framework](../14_architecture/well_architected.md) · [RDS & Aurora](../07_databases/rds_aurora.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q57 · disaster-recovery](../aws_practice_questions_100.md#q57--normal--disaster-recovery)
+

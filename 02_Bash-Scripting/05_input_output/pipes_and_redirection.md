@@ -355,3 +355,20 @@ echo "Full report saved to: $REPORT"
 **Prev:** [← File Operations](./file_operations.md) &nbsp;|&nbsp; **Next:** [Exit Codes →](../06_error_handling/exit_codes.md)
 
 **Related Topics:** [File Operations](./file_operations.md) · [Loops](../03_control_flow/loops.md) · [System Monitoring](../08_real_world_scripts/system_monitoring.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q23 · pipes-in-scripts](../bash_practice_questions_100.md#q23--critical--pipes-in-scripts)
+- 📝 [Q28 · process-substitution](../bash_practice_questions_100.md#q28--thinking--process-substitution)
+- 📝 [Q32 · here-string](../bash_practice_questions_100.md#q32--normal--here-string)
+- 📝 [Q41 · tee-command](../bash_practice_questions_100.md#q41--normal--tee-command)
+- 📝 [Q43 · coprocess](../bash_practice_questions_100.md#q43--normal--coprocess)
+- 📝 [Q44 · named-pipes](../bash_practice_questions_100.md#q44--normal--named-pipes)
+- 📝 [Q55 · xargs-parallel](../bash_practice_questions_100.md#q55--normal--xargs-parallel)
+- 📝 [Q60 · heredoc-advanced](../bash_practice_questions_100.md#q60--normal--heredoc-advanced)
+- 📝 [Q62 · null-separated](../bash_practice_questions_100.md#q62--normal--null-separated)
+- 📝 [Q86 · compare-heredoc-herestring](../bash_practice_questions_100.md#q86--interview--compare-heredoc-herestring)
+- 📝 [Q94 · debug-while-pipe](../bash_practice_questions_100.md#q94--debug--debug-while-pipe)
+

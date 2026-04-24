@@ -297,3 +297,11 @@ output "vpc_id"     { value = module.networking.vpc_id }
 **Prev:** [← Module Registry](./module_registry.md) &nbsp;|&nbsp; **Next:** [Workspaces →](../07_workspaces/workspaces.md)
 
 **Related Topics:** [Creating Modules](./creating_modules.md) · [Module Registry](./module_registry.md) · [Remote State](../05_state_management/remote_state.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q37 · module-composition](../terraform_practice_questions_100.md#q37--normal--module-composition)
+- 📝 [Q68 · cross-module-data](../terraform_practice_questions_100.md#q68--thinking--cross-module-data)
+

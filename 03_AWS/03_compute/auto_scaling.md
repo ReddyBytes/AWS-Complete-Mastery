@@ -524,3 +524,11 @@ Target tracking: you set a target value for a metric (e.g., CPU = 70%) and AWS a
 **Prev:** [← EC2](../03_compute/ec2.md) &nbsp;|&nbsp; **Next:** [Elastic Beanstalk →](../03_compute/elastic_beanstalk.md)
 
 **Related Topics:** [EC2](../03_compute/ec2.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md) · [ECS](../10_containers/ecs.md) · [High Availability](../14_architecture/high_availability.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q29 · auto-scaling](../aws_practice_questions_100.md#q29--normal--auto-scaling)
+- 📝 [Q81 · scenario-high-traffic-event](../aws_practice_questions_100.md#q81--design--scenario-high-traffic-event)
+

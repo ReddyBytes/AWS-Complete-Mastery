@@ -433,3 +433,12 @@ DynamoDB: when you need massive scale (millions of operations/second), serverles
 **Prev:** [← RDS & Aurora](../07_databases/rds_aurora.md) &nbsp;|&nbsp; **Next:** [ElastiCache Redis →](../07_databases/elasticache.md)
 
 **Related Topics:** [RDS & Aurora](../07_databases/rds_aurora.md) · [ElastiCache Redis](../07_databases/elasticache.md) · [Lambda](../11_serverless/lambda.md) · [Kinesis Streaming](../12_data_analytics/kinesis.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q40 · dynamodb-basics](../aws_practice_questions_100.md#q40--normal--dynamodb-basics)
+- 📝 [Q41 · dynamodb-gsi-lsi](../aws_practice_questions_100.md#q41--normal--dynamodb-gsi-lsi)
+- 📝 [Q42 · dynamodb-consistency](../aws_practice_questions_100.md#q42--normal--dynamodb-consistency)
+

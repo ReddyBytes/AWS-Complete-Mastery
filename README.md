@@ -125,6 +125,8 @@ Write infrastructure as code. Define, preview, and deploy cloud resources reprod
 | **Cloud architects** | AWS architecture + Terraform |
 | **Interview prep** | All `99_interview_master/` folders |
 
+**Want to test yourself?** → Practice Questions: [Linux](./01_Linux/linux_practice_questions_100.md) · [Bash](./02_Bash-Scripting/bash_practice_questions_100.md) · [AWS](./03_AWS/aws_practice_questions_100.md) · [Terraform](./04_Terraform/terraform_practice_questions_100.md)
+
 ---
 
 ## 💡 How to Use This Repo

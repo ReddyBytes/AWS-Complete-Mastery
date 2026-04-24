@@ -299,3 +299,13 @@ Key files:
 **Prev:** [← Text Processing](../03_shell_basics/text_processing.md) &nbsp;|&nbsp; **Next:** [File Permissions →](./file_permissions.md)
 
 **Related Topics:** [File Permissions](./file_permissions.md) · [Sudo and Root](./sudo_and_root.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q22 · users-groups](../linux_practice_questions_100.md#q22--normal--users-groups)
+- 📝 [Q24 · etc-passwd-shadow](../linux_practice_questions_100.md#q24--normal--etc-passwd-shadow)
+- 📝 [Q89 · scenario-user-audit](../linux_practice_questions_100.md#q89--design--scenario-user-audit)
+- 📝 [Q98 · design-user-provisioning](../linux_practice_questions_100.md#q98--design--design-user-provisioning)
+

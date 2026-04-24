@@ -326,3 +326,14 @@ Hardening:
 **Prev:** [← Network Commands](./network_commands.md) &nbsp;|&nbsp; **Next:** [Firewall →](./firewall.md)
 
 **Related Topics:** [Network Commands](./network_commands.md) · [Firewall](./firewall.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q29 · ssh-basics](../linux_practice_questions_100.md#q29--normal--ssh-basics)
+- 📝 [Q30 · ssh-config](../linux_practice_questions_100.md#q30--thinking--ssh-config)
+- 📝 [Q31 · scp-rsync](../linux_practice_questions_100.md#q31--normal--scp-rsync)
+- 📝 [Q75 · ssh-hardening](../linux_practice_questions_100.md#q75--thinking--ssh-hardening)
+- 📝 [Q82 · scenario-ssh-locked-out](../linux_practice_questions_100.md#q82--design--scenario-ssh-locked-out)
+

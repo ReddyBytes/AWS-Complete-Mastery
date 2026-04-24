@@ -340,3 +340,28 @@ Terraform builds this in the correct order automatically.
 **Prev:** [← Providers](./providers.md) &nbsp;|&nbsp; **Next:** [Data Sources →](./data_sources.md)
 
 **Related Topics:** [Providers](./providers.md) · [Data Sources](./data_sources.md) · [Expressions](../02_hcl_basics/expressions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q6 · resource-block](../terraform_practice_questions_100.md#q6--normal--resource-block)
+- 📝 [Q14 · resource-dependencies](../terraform_practice_questions_100.md#q14--thinking--resource-dependencies)
+- 📝 [Q24 · resource-attributes](../terraform_practice_questions_100.md#q24--thinking--resource-attributes)
+- 📝 [Q26 · count-meta-arg](../terraform_practice_questions_100.md#q26--normal--count-meta-arg)
+- 📝 [Q27 · for-each-meta-arg](../terraform_practice_questions_100.md#q27--thinking--for-each-meta-arg)
+- 📝 [Q31 · lifecycle-block](../terraform_practice_questions_100.md#q31--normal--lifecycle-block)
+- 📝 [Q48 · null-resource](../terraform_practice_questions_100.md#q48--normal--null-resource)
+- 📝 [Q49 · terraform-null-provider](../terraform_practice_questions_100.md#q49--normal--terraform-null-provider)
+- 📝 [Q50 · provisioners](../terraform_practice_questions_100.md#q50--normal--provisioners)
+- 📝 [Q71 · resource-graph](../terraform_practice_questions_100.md#q71--thinking--resource-graph)
+- 📝 [Q72 · for-each-vs-count](../terraform_practice_questions_100.md#q72--thinking--for-each-vs-count)
+- 📝 [Q85 · scenario-destroy-protection](../terraform_practice_questions_100.md#q85--design--scenario-destroy-protection)
+- 📝 [Q86 · compare-provisioners-cloud-init](../terraform_practice_questions_100.md#q86--interview--compare-provisioners-cloud-init)
+- 📝 [Q92 · predict-for-each-key](../terraform_practice_questions_100.md#q92--logical--predict-for-each-key)
+- 📝 [Q93 · predict-depends-on](../terraform_practice_questions_100.md#q93--logical--predict-depends-on)
+- 📝 [Q96 · debug-cyclic-dependency](../terraform_practice_questions_100.md#q96--debug--debug-cyclic-dependency)
+- 📝 [Q97 · design-zero-downtime](../terraform_practice_questions_100.md#q97--design--design-zero-downtime)
+- 📝 [Q98 · design-conditional-resources](../terraform_practice_questions_100.md#q98--design--design-conditional-resources)
+- 📝 [Q100 · edge-case-destroy-create](../terraform_practice_questions_100.md#q100--critical--edge-case-destroy-create)
+

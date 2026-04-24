@@ -433,3 +433,12 @@ CloudWatch monitors the health and performance of applications and infrastructur
 **Prev:** [← ElastiCache Redis](../07_databases/elasticache.md) &nbsp;|&nbsp; **Next:** [OpenTelemetry on AWS →](../08_monitoring/otel.md)
 
 **Related Topics:** [CloudFormation](../09_iac/cloudformation.md) · [Lambda](../11_serverless/lambda.md) · [CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md) · [Well-Architected Framework](../14_architecture/well_architected.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q25 · cloudwatch-basics](../aws_practice_questions_100.md#q25--normal--cloudwatch-basics)
+- 📝 [Q52 · cloudwatch-advanced](../aws_practice_questions_100.md#q52--normal--cloudwatch-advanced)
+- 📝 [Q75 · cloudwatch-logs-insights](../aws_practice_questions_100.md#q75--thinking--cloudwatch-logs-insights)
+

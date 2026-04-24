@@ -237,3 +237,12 @@ Key ideas:
 **Prev:** [← Overview](./overview.md) &nbsp;|&nbsp; **Next:** [Distros →](./distros.md)
 
 **Related Topics:** [Overview](./overview.md) · [Distros](./distros.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q3 · linux-architecture](../linux_practice_questions_100.md#q3--normal--linux-architecture)
+- 📝 [Q63 · kernel-modules](../linux_practice_questions_100.md#q63--normal--kernel-modules)
+- 📝 [Q78 · explain-boot-process](../linux_practice_questions_100.md#q78--interview--explain-boot-process)
+

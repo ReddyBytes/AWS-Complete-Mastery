@@ -235,3 +235,12 @@ By default, state is stored locally. This causes problems for teams:
 **Prev:** [← Locals](../04_variables_outputs/locals.md) &nbsp;|&nbsp; **Next:** [Remote State →](./remote_state.md)
 
 **Related Topics:** [Remote State](./remote_state.md) · [State Commands](./state_commands.md) · [Security Best Practices](../09_best_practices/security.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q15 · terraform-state](../terraform_practice_questions_100.md#q15--normal--terraform-state)
+- 📝 [Q16 · state-file-contents](../terraform_practice_questions_100.md#q16--thinking--state-file-contents)
+- 📝 [Q76 · explain-state-junior](../terraform_practice_questions_100.md#q76--interview--explain-state-junior)
+

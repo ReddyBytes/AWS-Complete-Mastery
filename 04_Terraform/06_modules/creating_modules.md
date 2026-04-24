@@ -308,3 +308,12 @@ terraform get    # only updates modules (faster)
 **Prev:** [← State Commands](../05_state_management/state_commands.md) &nbsp;|&nbsp; **Next:** [Module Registry →](./module_registry.md)
 
 **Related Topics:** [Module Registry](./module_registry.md) · [Module Composition](./module_composition.md) · [Outputs](../04_variables_outputs/outputs.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q34 · modules-basics](../terraform_practice_questions_100.md#q34--normal--modules-basics)
+- 📝 [Q35 · module-inputs-outputs](../terraform_practice_questions_100.md#q35--normal--module-inputs-outputs)
+- 📝 [Q78 · explain-modules](../terraform_practice_questions_100.md#q78--interview--explain-modules)
+

@@ -596,3 +596,20 @@ Cost note: NAT Gateway charges ~$0.045/hr. Delete after practice.
 **Prev:** [← EBS & EFS](../04_storage/ebs_efs.md) &nbsp;|&nbsp; **Next:** [Route 53 & CloudFront →](../05_networking/route53_cloudfront.md)
 
 **Related Topics:** [Route 53 & CloudFront](../05_networking/route53_cloudfront.md) · [IAM](../06_security/iam.md) · [EC2](../03_compute/ec2.md) · [CloudFormation](../09_iac/cloudformation.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q8 · security-groups](../aws_practice_questions_100.md#q8--normal--security-groups)
+- 📝 [Q9 · nacl-vs-sg](../aws_practice_questions_100.md#q9--thinking--nacl-vs-sg)
+- 📝 [Q16 · vpc-basics](../aws_practice_questions_100.md#q16--normal--vpc-basics)
+- 📝 [Q17 · internet-gateway](../aws_practice_questions_100.md#q17--normal--internet-gateway)
+- 📝 [Q18 · nat-gateway](../aws_practice_questions_100.md#q18--thinking--nat-gateway)
+- 📝 [Q34 · vpc-peering](../aws_practice_questions_100.md#q34--normal--vpc-peering)
+- 📝 [Q35 · vpc-endpoints](../aws_practice_questions_100.md#q35--normal--vpc-endpoints)
+- 📝 [Q36 · transit-gateway](../aws_practice_questions_100.md#q36--normal--transit-gateway)
+- 📝 [Q76 · explain-vpc-junior](../aws_practice_questions_100.md#q76--interview--explain-vpc-junior)
+- 📝 [Q91 · predict-sg-traffic](../aws_practice_questions_100.md#q91--logical--predict-sg-traffic)
+- 📝 [Q95 · debug-vpc-connectivity](../aws_practice_questions_100.md#q95--debug--debug-vpc-connectivity)
+

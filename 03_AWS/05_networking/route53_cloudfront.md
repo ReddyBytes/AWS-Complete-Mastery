@@ -330,3 +330,12 @@ An Alias record is AWS-specific and can be used at the zone apex (root domain li
 **Prev:** [← VPC Networking](../05_networking/vpc.md) &nbsp;|&nbsp; **Next:** [IAM →](../06_security/iam.md)
 
 **Related Topics:** [VPC Networking](../05_networking/vpc.md) · [S3 Object Storage](../04_storage/s3.md) · [WAF, Shield & GuardDuty](../06_security/waf_shield_guardduty.md) · [High Availability](../14_architecture/high_availability.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q26 · route53-basics](../aws_practice_questions_100.md#q26--normal--route53-basics)
+- 📝 [Q55 · cloudfront](../aws_practice_questions_100.md#q55--normal--cloudfront)
+- 📝 [Q56 · cloudfront-cache](../aws_practice_questions_100.md#q56--normal--cloudfront-cache)
+

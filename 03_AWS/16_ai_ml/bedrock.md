@@ -252,3 +252,10 @@ On-demand is pay-per-token with no guarantees — good for development, testing,
 **Prev:** [← Cost Optimization](../15_cost_optimization/theory.md) &nbsp;|&nbsp; **Next:** [Bedrock Agents →](../16_ai_ml/bedrock_agents.md)
 
 **Related Topics:** [Bedrock Agents](../16_ai_ml/bedrock_agents.md) · [Knowledge Bases (RAG)](../16_ai_ml/bedrock_knowledge_bases.md) · [Guardrails & Amazon Q](../16_ai_ml/guardrails_amazon_q.md) · [SageMaker](../16_ai_ml/sagemaker.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q67 · bedrock-basics](../aws_practice_questions_100.md#q67--thinking--bedrock-basics)
+

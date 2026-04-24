@@ -350,3 +350,13 @@ main "$@"
 **Prev:** [← Case Statements](../03_control_flow/case_statements.md) &nbsp;|&nbsp; **Next:** [Scope and Return →](./scope_and_return.md)
 
 **Related Topics:** [Scope and Return](./scope_and_return.md) · [Exit Codes](../06_error_handling/exit_codes.md) · [Deployment Scripts](../08_real_world_scripts/deployment_scripts.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q17 · functions-basics](../bash_practice_questions_100.md#q17--normal--functions-basics)
+- 📝 [Q53 · parallel-execution](../bash_practice_questions_100.md#q53--normal--parallel-execution)
+- 📝 [Q54 · job-control](../bash_practice_questions_100.md#q54--normal--job-control)
+- 📝 [Q98 · design-retry-logic](../bash_practice_questions_100.md#q98--design--design-retry-logic)
+

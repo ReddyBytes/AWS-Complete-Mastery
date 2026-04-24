@@ -191,3 +191,10 @@ Redis serves data in < 1ms (from memory). Databases serve queries in 5-50ms (fro
 **Prev:** [← DynamoDB](../07_databases/dynamodb.md) &nbsp;|&nbsp; **Next:** [CloudWatch & Observability →](../08_monitoring/cloudwatch.md)
 
 **Related Topics:** [RDS & Aurora](../07_databases/rds_aurora.md) · [DynamoDB](../07_databases/dynamodb.md) · [Lambda](../11_serverless/lambda.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q43 · elasticache-basics](../aws_practice_questions_100.md#q43--normal--elasticache-basics)
+

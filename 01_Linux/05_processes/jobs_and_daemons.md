@@ -344,3 +344,10 @@ Turn script into service:
 **Prev:** [← Signals](./signals.md) &nbsp;|&nbsp; **Next:** [Network Commands →](../06_networking/network_commands.md)
 
 **Related Topics:** [Process Management](./process_management.md) · [Signals](./signals.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q21 · background-jobs](../linux_practice_questions_100.md#q21--normal--background-jobs)
+

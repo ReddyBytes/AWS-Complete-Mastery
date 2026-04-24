@@ -314,3 +314,15 @@ Traffic:
 **Prev:** [← Jobs and Daemons](../05_processes/jobs_and_daemons.md) &nbsp;|&nbsp; **Next:** [SSH →](./ssh.md)
 
 **Related Topics:** [SSH](./ssh.md) · [Firewall](./firewall.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q32 · networking-commands](../linux_practice_questions_100.md#q32--normal--networking-commands)
+- 📝 [Q33 · dns-resolution](../linux_practice_questions_100.md#q33--critical--dns-resolution)
+- 📝 [Q49 · network-troubleshooting](../linux_practice_questions_100.md#q49--normal--network-troubleshooting)
+- 📝 [Q50 · tcp-states](../linux_practice_questions_100.md#q50--normal--tcp-states)
+- 📝 [Q69 · network-performance](../linux_practice_questions_100.md#q69--thinking--network-performance)
+- 📝 [Q90 · scenario-network-latency](../linux_practice_questions_100.md#q90--design--scenario-network-latency)
+

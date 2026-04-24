@@ -276,3 +276,12 @@ Golden rules:
 **Prev:** [← Distros](../01_fundamentals/distros.md) &nbsp;|&nbsp; **Next:** [File Operations →](./file_operations.md)
 
 **Related Topics:** [File Operations](./file_operations.md) · [Links and Inodes](./links_and_inodes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q4 · filesystem-hierarchy](../linux_practice_questions_100.md#q4--normal--filesystem-hierarchy)
+- 📝 [Q5 · absolute-vs-relative-path](../linux_practice_questions_100.md#q5--normal--absolute-vs-relative-path)
+- 📝 [Q6 · directory-navigation](../linux_practice_questions_100.md#q6--normal--directory-navigation)
+

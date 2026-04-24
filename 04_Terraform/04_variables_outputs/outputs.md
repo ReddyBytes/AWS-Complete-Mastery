@@ -324,3 +324,10 @@ output "app_url" {
 **Prev:** [← Variables](./variables.md) &nbsp;|&nbsp; **Next:** [Locals →](./locals.md)
 
 **Related Topics:** [Variables](./variables.md) · [Locals](./locals.md) · [Modules](../06_modules/creating_modules.md) · [Remote State](../05_state_management/remote_state.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q11 · outputs](../terraform_practice_questions_100.md#q11--normal--outputs)
+

@@ -313,3 +313,14 @@ echo "App Port: ${CONFIG[APP_PORT]}"
 **Prev:** [← Arrays](./arrays.md) &nbsp;|&nbsp; **Next:** [Conditionals →](../03_control_flow/conditionals.md)
 
 **Related Topics:** [Variables](./variables.md) · [User Input](../05_input_output/user_input.md) · [File Operations](../05_input_output/file_operations.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q5 · string-operations](../bash_practice_questions_100.md#q5--normal--string-operations)
+- 📝 [Q25 · brace-expansion](../bash_practice_questions_100.md#q25--thinking--brace-expansion)
+- 📝 [Q34 · string-manipulation](../bash_practice_questions_100.md#q34--normal--string-manipulation)
+- 📝 [Q35 · string-slicing](../bash_practice_questions_100.md#q35--normal--string-slicing)
+- 📝 [Q75 · advanced-parameter-expansion](../bash_practice_questions_100.md#q75--thinking--advanced-parameter-expansion)
+

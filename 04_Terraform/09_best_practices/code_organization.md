@@ -307,3 +307,13 @@ terraform show -json | jq .
 **Prev:** [← RDS](../08_aws_with_terraform/rds.md) &nbsp;|&nbsp; **Next:** [Security →](./security.md)
 
 **Related Topics:** [Security](./security.md) · [CI/CD Integration](./ci_cd_integration.md) · [Creating Modules](../06_modules/creating_modules.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q61 · code-organization](../terraform_practice_questions_100.md#q61--normal--code-organization)
+- 📝 [Q74 · testing-terraform](../terraform_practice_questions_100.md#q74--thinking--testing-terraform)
+- 📝 [Q83 · scenario-large-codebase](../terraform_practice_questions_100.md#q83--design--scenario-large-codebase)
+- 📝 [Q88 · scenario-multi-team](../terraform_practice_questions_100.md#q88--design--scenario-multi-team)
+

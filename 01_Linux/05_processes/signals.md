@@ -268,3 +268,11 @@ In scripts:
 **Prev:** [← Process Management](./process_management.md) &nbsp;|&nbsp; **Next:** [Jobs and Daemons →](./jobs_and_daemons.md)
 
 **Related Topics:** [Process Management](./process_management.md) · [Jobs and Daemons](./jobs_and_daemons.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q20 · kill-signals](../linux_practice_questions_100.md#q20--normal--kill-signals)
+- 📝 [Q37 · process-signals](../linux_practice_questions_100.md#q37--normal--process-signals)
+

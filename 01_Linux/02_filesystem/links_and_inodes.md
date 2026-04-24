@@ -249,3 +249,15 @@ Real world:
 **Prev:** [← File Operations](./file_operations.md) &nbsp;|&nbsp; **Next:** [Shell Commands →](../03_shell_basics/commands.md)
 
 **Related Topics:** [Directory Structure](./directory_structure.md) · [File Operations](./file_operations.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q44 · inodes](../linux_practice_questions_100.md#q44--normal--inodes)
+- 📝 [Q45 · hard-vs-soft-links](../linux_practice_questions_100.md#q45--normal--hard-vs-soft-links)
+- 📝 [Q79 · compare-hard-soft-links](../linux_practice_questions_100.md#q79--interview--compare-hard-soft-links)
+- 📝 [Q87 · compare-hard-links-vs-copy](../linux_practice_questions_100.md#q87--interview--compare-hard-links-vs-copy)
+- 📝 [Q94 · debug-broken-symlink](../linux_practice_questions_100.md#q94--debug--debug-broken-symlink)
+- 📝 [Q100 · edge-case-inode-full](../linux_practice_questions_100.md#q100--critical--edge-case-inode-full)
+

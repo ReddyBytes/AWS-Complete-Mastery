@@ -286,3 +286,16 @@ encrypt        = true
 **Prev:** [← State File](./state_file.md) &nbsp;|&nbsp; **Next:** [State Commands →](./state_commands.md)
 
 **Related Topics:** [State File](./state_file.md) · [State Commands](./state_commands.md) · [S3 with Terraform](../08_aws_with_terraform/s3.md) · [CI/CD Integration](../09_best_practices/ci_cd_integration.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q20 · remote-state](../terraform_practice_questions_100.md#q20--normal--remote-state)
+- 📝 [Q21 · s3-backend](../terraform_practice_questions_100.md#q21--normal--s3-backend)
+- 📝 [Q22 · state-locking](../terraform_practice_questions_100.md#q22--critical--state-locking)
+- 📝 [Q69 · backends-advanced](../terraform_practice_questions_100.md#q69--thinking--backends-advanced)
+- 📝 [Q70 · state-migration](../terraform_practice_questions_100.md#q70--thinking--state-migration)
+- 📝 [Q82 · scenario-team-conflict](../terraform_practice_questions_100.md#q82--design--scenario-team-conflict)
+- 📝 [Q94 · debug-state-lock](../terraform_practice_questions_100.md#q94--debug--debug-state-lock)
+

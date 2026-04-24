@@ -286,3 +286,14 @@ Expanding EBS on AWS:
 **Prev:** [← Logs and journalctl](./logs_and_journalctl.md) &nbsp;|&nbsp; **Next:** [Linux Interview Questions →](../99_interview_master/linux_questions.md)
 
 **Related Topics:** [systemd Services](./systemd_services.md) · [Logs and journalctl](./logs_and_journalctl.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q42 · disk-df-du](../linux_practice_questions_100.md#q42--normal--disk-df-du)
+- 📝 [Q43 · lsblk-mount](../linux_practice_questions_100.md#q43--normal--lsblk-mount)
+- 📝 [Q52 · swap-space](../linux_practice_questions_100.md#q52--normal--swap-space)
+- 📝 [Q68 · disk-io-troubleshooting](../linux_practice_questions_100.md#q68--thinking--disk-io-troubleshooting)
+- 📝 [Q81 · scenario-disk-full](../linux_practice_questions_100.md#q81--design--scenario-disk-full)
+

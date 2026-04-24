@@ -22,6 +22,16 @@ command  [options]  [arguments]
   grep      -i       "error" /var/log/syslog
 ```
 
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q55 · environment-variables](../linux_practice_questions_100.md#q55--normal--environment-variables)
+- 📝 [Q56 · shell-history](../linux_practice_questions_100.md#q56--normal--shell-history)
+- 📝 [Q60 · screen-tmux](../linux_practice_questions_100.md#q60--normal--screen-tmux)
+
+
 ---
 
 ## 2. Navigation

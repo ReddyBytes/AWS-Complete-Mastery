@@ -665,3 +665,11 @@ Reasons to stay on-premise or hybrid: regulatory requirements mandating data sta
 **Prev:** — &nbsp;|&nbsp; **Next:** [Global Infrastructure →](../02_global_infrastructure/theory.md)
 
 **Related Topics:** [Global Infrastructure](../02_global_infrastructure/theory.md) · [EC2](../03_compute/ec2.md) · [IAM](../06_security/iam.md) · [Cost Optimization](../15_cost_optimization/theory.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q1 · cloud-fundamentals](../aws_practice_questions_100.md#q1--normal--cloud-fundamentals)
+- 📝 [Q2 · cloud-deployment-models](../aws_practice_questions_100.md#q2--thinking--cloud-deployment-models)
+

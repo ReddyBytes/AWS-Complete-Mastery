@@ -294,3 +294,13 @@ Start here: What cloud(s) are you using?
 **Prev:** [← What is Terraform](./what_is_terraform.md) &nbsp;|&nbsp; **Next:** [Installation →](./installation.md)
 
 **Related Topics:** [What is Terraform](./what_is_terraform.md) · [Providers](../03_providers_resources/providers.md) · [Best Practices](../09_best_practices/code_organization.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q2 · terraform-vs-others](../terraform_practice_questions_100.md#q2--thinking--terraform-vs-others)
+- 📝 [Q75 · terraform-cdk](../terraform_practice_questions_100.md#q75--thinking--terraform-cdk)
+- 📝 [Q77 · compare-terraform-cloudformation](../terraform_practice_questions_100.md#q77--interview--compare-terraform-cloudformation)
+- 📝 [Q87 · compare-cdktf-hcl](../terraform_practice_questions_100.md#q87--interview--compare-cdktf-hcl)
+

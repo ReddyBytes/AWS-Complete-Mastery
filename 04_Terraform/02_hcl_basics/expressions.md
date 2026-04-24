@@ -369,3 +369,14 @@ resource "aws_security_group" "web" {
 **Prev:** [← Data Types](./data_types.md) &nbsp;|&nbsp; **Next:** [Providers →](../03_providers_resources/providers.md)
 
 **Related Topics:** [Data Types](./data_types.md) · [Variables](../04_variables_outputs/variables.md) · [Locals](../04_variables_outputs/locals.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q28 · for-expressions](../terraform_practice_questions_100.md#q28--normal--for-expressions)
+- 📝 [Q29 · conditional-expression](../terraform_practice_questions_100.md#q29--normal--conditional-expression)
+- 📝 [Q45 · dynamic-blocks](../terraform_practice_questions_100.md#q45--normal--dynamic-blocks)
+- 📝 [Q46 · templatefile-function](../terraform_practice_questions_100.md#q46--normal--templatefile-function)
+- 📝 [Q47 · built-in-functions](../terraform_practice_questions_100.md#q47--normal--built-in-functions)
+

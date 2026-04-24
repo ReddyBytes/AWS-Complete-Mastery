@@ -360,3 +360,10 @@ Cognito handles authentication (who you are) but authorization logic belongs in 
 **Prev:** [← KMS & Encryption](../06_security/kms.md) &nbsp;|&nbsp; **Next:** [WAF, Shield & GuardDuty →](../06_security/waf_shield_guardduty.md)
 
 **Related Topics:** [IAM](../06_security/iam.md) · [API Gateway](../11_serverless/api_gateway.md) · [Lambda](../11_serverless/lambda.md) · [KMS & Encryption](../06_security/kms.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q39 · security-cognito](../aws_practice_questions_100.md#q39--normal--security-cognito)
+

@@ -452,3 +452,10 @@ After deploying an MVP, run a WAF Tool review against the workload. Answer ~60 q
 **Prev:** [← High Availability](../14_architecture/high_availability.md) &nbsp;|&nbsp; **Next:** [Disaster Recovery →](../14_architecture/disaster_recovery.md)
 
 **Related Topics:** [High Availability](../14_architecture/high_availability.md) · [Disaster Recovery](../14_architecture/disaster_recovery.md) · [Cost Optimization](../15_cost_optimization/theory.md) · [CloudWatch & Observability](../08_monitoring/cloudwatch.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q59 · well-architected-pillars](../aws_practice_questions_100.md#q59--normal--well-architected-pillars)
+

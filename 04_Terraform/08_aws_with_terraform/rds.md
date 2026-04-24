@@ -351,3 +351,10 @@ output "db_secret_arn" {
 **Prev:** [← IAM](./iam.md) &nbsp;|&nbsp; **Next:** [Code Organization →](../09_best_practices/code_organization.md)
 
 **Related Topics:** [VPC](./vpc.md) · [EC2](./ec2.md) · [IAM](./iam.md) · [Security Best Practices](../09_best_practices/security.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q57 · aws-with-terraform-rds](../terraform_practice_questions_100.md#q57--normal--aws-with-terraform-rds)
+

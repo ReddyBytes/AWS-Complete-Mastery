@@ -347,3 +347,11 @@ Standard workflows support execution up to 1 year, have exactly-once execution s
 **Prev:** [← SQS, SNS & EventBridge](../11_serverless/sqs_sns_eventbridge.md) &nbsp;|&nbsp; **Next:** [Kinesis Streaming →](../12_data_analytics/kinesis.md)
 
 **Related Topics:** [Lambda](../11_serverless/lambda.md) · [SQS, SNS & EventBridge](../11_serverless/sqs_sns_eventbridge.md) · [CI/CD Pipeline](../13_devops_cicd/cicd_pipeline.md) · [Bedrock Agents](../16_ai_ml/bedrock_agents.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q51 · step-functions](../aws_practice_questions_100.md#q51--normal--step-functions)
+- 📝 [Q97 · design-serverless-pipeline](../aws_practice_questions_100.md#q97--design--design-serverless-pipeline)
+

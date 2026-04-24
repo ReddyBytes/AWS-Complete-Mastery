@@ -237,3 +237,11 @@ Workspaces are often misunderstood. Here are cases where they are the WRONG solu
 **Prev:** [← Module Composition](../06_modules/module_composition.md) &nbsp;|&nbsp; **Next:** [Environments →](./environments.md)
 
 **Related Topics:** [Environments](./environments.md) · [Remote State](../05_state_management/remote_state.md) · [Variables](../04_variables_outputs/variables.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q38 · workspaces](../terraform_practice_questions_100.md#q38--normal--workspaces)
+- 📝 [Q39 · workspace-commands](../terraform_practice_questions_100.md#q39--normal--workspace-commands)
+

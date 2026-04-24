@@ -358,3 +358,10 @@ log ERROR "Failed to connect to cache server"
 **Prev:** [← Loops](./loops.md) &nbsp;|&nbsp; **Next:** [Functions →](../04_functions/functions.md)
 
 **Related Topics:** [Conditionals](./conditionals.md) · [User Input](../05_input_output/user_input.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q16 · case-statement](../bash_practice_questions_100.md#q16--design--case-statement)
+

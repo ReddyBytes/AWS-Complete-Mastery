@@ -282,3 +282,19 @@ terraform state list | grep aws_security_group
 **Prev:** [← Remote State](./remote_state.md) &nbsp;|&nbsp; **Next:** [Creating Modules →](../06_modules/creating_modules.md)
 
 **Related Topics:** [State File](./state_file.md) · [Remote State](./remote_state.md) · [Resources](../03_providers_resources/resources.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q32 · import-command](../terraform_practice_questions_100.md#q32--interview--import-command)
+- 📝 [Q33 · moved-block](../terraform_practice_questions_100.md#q33--thinking--moved-block)
+- 📝 [Q41 · state-commands](../terraform_practice_questions_100.md#q41--normal--state-commands)
+- 📝 [Q42 · state-refresh](../terraform_practice_questions_100.md#q42--normal--state-refresh)
+- 📝 [Q43 · taint-replace](../terraform_practice_questions_100.md#q43--normal--taint-replace)
+- 📝 [Q44 · target-flag](../terraform_practice_questions_100.md#q44--normal--target-flag)
+- 📝 [Q63 · drift-detection](../terraform_practice_questions_100.md#q63--normal--drift-detection)
+- 📝 [Q81 · scenario-state-corruption](../terraform_practice_questions_100.md#q81--design--scenario-state-corruption)
+- 📝 [Q84 · scenario-migrate-existing](../terraform_practice_questions_100.md#q84--design--scenario-migrate-existing)
+- 📝 [Q91 · predict-plan-output](../terraform_practice_questions_100.md#q91--logical--predict-plan-output)
+

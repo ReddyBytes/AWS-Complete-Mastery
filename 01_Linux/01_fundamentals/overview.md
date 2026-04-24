@@ -199,3 +199,10 @@ You will use Linux for:
 **Prev:** — &nbsp;|&nbsp; **Next:** [Architecture →](./architecture.md)
 
 **Related Topics:** [Architecture](./architecture.md) · [Distros](./distros.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q1 · linux-vs-windows](../linux_practice_questions_100.md#q1--normal--linux-vs-windows)
+
