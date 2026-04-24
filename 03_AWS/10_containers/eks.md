@@ -206,8 +206,10 @@ spec:
 
 ### Horizontal Pod Autoscaler
 
+HPA watches a metric — usually CPU or memory — and adjusts the replica count of a Deployment to keep that metric at the target level. It does not provision new nodes; it only adds or removes pods within the capacity already available on nodes.
+
 ```yaml
-# hpa.yaml — Scale based on CPU
+# hpa.yaml — Scale based on CPU utilization
 apiVersion: autoscaling/v2
 kind: HorizontalPodAutoscaler
 metadata:
@@ -225,8 +227,148 @@ spec:
       name: cpu
       target:
         type: Utilization
-        averageUtilization: 70    # scale up when CPU > 70%
+        averageUtilization: 70    # ← scale up when avg CPU across all pods > 70%
+  - type: Resource
+    resource:
+      name: memory
+      target:
+        type: AverageValue
+        averageValue: 400Mi       # ← scale up when avg memory per pod > 400Mi
+  behavior:
+    scaleUp:
+      stabilizationWindowSeconds: 60    # ← wait 60s before scaling up again
+      policies:
+      - type: Pods
+        value: 4
+        periodSeconds: 60              # ← add at most 4 pods per 60 seconds
+    scaleDown:
+      stabilizationWindowSeconds: 300  # ← wait 5min before scaling down (prevents flapping)
 ```
+
+**HPA requires Metrics Server** to be installed in the cluster. EKS does not install it by default:
+```bash
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+kubectl top pods    # ← verify metrics are flowing
+```
+
+---
+
+### Vertical Pod Autoscaler (VPA)
+
+While HPA adds more pods, **VPA** adjusts the CPU and memory *requests and limits* of existing pods. Think of HPA as adding more checkout lanes at a grocery store, and VPA as making each lane worker faster.
+
+VPA solves the problem of right-sizing: you set requests once at deploy time and often get them wrong. VPA monitors actual usage and recommends (or auto-applies) better values.
+
+```yaml
+apiVersion: autoscaling.k8s.io/v1
+kind: VerticalPodAutoscaler
+metadata:
+  name: my-api-vpa
+spec:
+  targetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: my-api
+  updatePolicy:
+    updateMode: "Auto"       # ← Off = recommend only, Initial = set on new pods, Auto = evict and recreate
+  resourcePolicy:
+    containerPolicies:
+    - containerName: "*"
+      minAllowed:
+        cpu: 100m
+        memory: 50Mi
+      maxAllowed:
+        cpu: 2
+        memory: 2Gi
+```
+
+```bash
+# Check VPA recommendations
+kubectl describe vpa my-api-vpa
+# Shows: Recommendation > Container > Lower Bound / Target / Upper Bound
+```
+
+**VPA + HPA together:** Do NOT use VPA and HPA both targeting CPU/memory on the same deployment — they fight each other. Safe combination: HPA on custom metrics (queue depth, RPS) + VPA on CPU/memory.
+
+VPA requires installing the VPA controller (not included in EKS by default):
+```bash
+# Install via Helm
+helm repo add cowboysysop https://cowboysysop.github.io/charts/
+helm install vpa cowboysysop/vertical-pod-autoscaler -n kube-system
+```
+
+---
+
+### KEDA — Event-Driven Autoscaling
+
+**KEDA (Kubernetes Event-Driven Autoscaling)** extends HPA to scale on any external signal: queue depth, Kafka lag, database row count, HTTP request rate, cron schedule. It is the standard approach for scaling workers that process queues or events.
+
+The problem KEDA solves: HPA only knows about CPU and memory. A queue worker sitting idle at 5% CPU while 10,000 messages pile up will never scale with plain HPA. KEDA scales based on queue depth.
+
+```yaml
+# ScaledObject — KEDA's custom resource
+apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  name: sqs-worker-scaler
+spec:
+  scaleTargetRef:
+    name: sqs-worker-deployment    # ← which Deployment to scale
+  minReplicaCount: 0               # ← scale to zero when queue is empty
+  maxReplicaCount: 50
+  triggers:
+  - type: aws-sqs-queue
+    authenticationRef:
+      name: keda-trigger-auth-aws
+    metadata:
+      queueURL: https://sqs.us-east-1.amazonaws.com/123456789/my-queue
+      queueLength: "5"             # ← target: 1 worker per 5 messages
+      awsRegion: us-east-1
+      identityOwner: operator      # ← use IRSA
+```
+
+```yaml
+# Kafka trigger example
+triggers:
+- type: kafka
+  metadata:
+    bootstrapServers: kafka:9092
+    consumerGroup: my-consumer-group
+    topic: my-topic
+    lagThreshold: "100"            # ← 1 pod per 100 messages of lag
+```
+
+```yaml
+# Cron trigger — scale up during business hours, down overnight
+triggers:
+- type: cron
+  metadata:
+    timezone: America/New_York
+    start: "0 8 * * 1-5"          # ← 8am weekdays
+    end: "0 20 * * 1-5"           # ← 8pm weekdays
+    desiredReplicas: "10"
+```
+
+```bash
+# Install KEDA via Helm
+helm repo add kedacore https://kedacore.github.io/charts
+helm install keda kedacore/keda --namespace keda --create-namespace
+```
+
+**Scale-to-zero:** KEDA can scale a Deployment to 0 replicas when idle (minReplicaCount: 0). This is not possible with plain HPA (minimum 1). Useful for development environments and infrequently-triggered workers.
+
+---
+
+### Autoscaling Decision Table
+
+| What to scale on | Tool | Notes |
+|---|---|---|
+| CPU / memory utilization | HPA | Built-in; requires Metrics Server |
+| Right-size resource requests | VPA | Do not combine with CPU/memory HPA |
+| Queue depth (SQS, Kafka, Redis) | KEDA | Industry standard for async workers |
+| Custom app metrics (RPS, latency) | HPA + custom metrics adapter | Requires Prometheus Adapter |
+| Time of day / business hours | KEDA cron trigger | Scale to zero overnight |
+| Node capacity (pending pods) | Cluster Autoscaler or Karpenter | Provisions new EC2 nodes |
 
 ---
 
